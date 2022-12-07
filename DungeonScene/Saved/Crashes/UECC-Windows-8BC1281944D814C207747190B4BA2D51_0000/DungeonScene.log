@@ -1,0 +1,1616 @@
+﻿Log file open, 12/07/22 12:11:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=3184)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: DungeonScene
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\1022076\Documents\Unreal Projects\DungeonScene\DungeonScene.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2251] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-9700F CPU @ 3.00GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="3d76a05241578519231fc98be0546d8b"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 1.686411
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-8BC1281944D814C207747190B4BA2D51
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading Mac ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogConfig: Display: Loading TVOS ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2251] (), CPU: Intel(R) Core(TM) i7-9700F CPU @ 3.00GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/UE5/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.12.07-04.11.41:154][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.12.07-04.11.41:154][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.12.07-04.11.41:154][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.12.07-04.11.41:154][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.12.07-04.11.41:155][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.12.07-04.11.41:155][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.12.07-04.11.41:155][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.12.07-04.11.41:159][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.12.07-04.11.41:160][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.12.07-04.11.41:160][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.12.07-04.11.41:160][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.12.07-04.11.41:160][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.12.07-04.11.41:160][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.12.07-04.11.41:160][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.12.07-04.11.41:160][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.12.07-04.11.41:160][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.12.07-04.11.41:160][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.12.07-04.11.41:160][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.12.07-04.11.41:214][  0]LogD3D12RHI: Aftermath initialized
+[2022.12.07-04.11.41:214][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.12.07-04.11.41:387][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2060 (Max supported Feature Level 12_1, shader model 6.6)
+[2022.12.07-04.11.41:387][  0]LogD3D12RHI: Adapter has 5980MB of dedicated video memory, 0MB of dedicated system memory, and 8159MB of shared system memory, 1 output[s]
+[2022.12.07-04.11.41:423][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.12.07-04.11.41:423][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8159MB of shared system memory, 0 output[s]
+[2022.12.07-04.11.41:429][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.12.07-04.11.41:430][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.12.07-04.11.41:431][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.12.07-04.11.41:435][  0]LogHAL: Display: Platform has ~ 16 GB [17111220224 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.12.07-04.11.41:436][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.12.07-04.11.41:436][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.12.07-04.11.41:436][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.12.07-04.11.41:436][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.12.07-04.11.41:436][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/1022076/Documents/Unreal Projects/DungeonScene/Saved/Config/WindowsEditor/Editor.ini]
+[2022.12.07-04.11.41:437][  0]LogInit: Computer: PER-R306-13W
+[2022.12.07-04.11.41:437][  0]LogInit: User: 1022076
+[2022.12.07-04.11.41:437][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.12.07-04.11.41:437][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.12.07-04.11.41:437][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.12.07-04.11.41:437][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.12.07-04.11.41:437][  0]LogMemory: Process Physical Memory: 264.57 MB used, 274.75 MB peak
+[2022.12.07-04.11.41:437][  0]LogMemory: Process Virtual Memory: 209.91 MB used, 209.91 MB peak
+[2022.12.07-04.11.41:437][  0]LogMemory: Physical Memory: 7905.34 MB used,  8413.19 MB free, 16318.53 MB total
+[2022.12.07-04.11.41:437][  0]LogMemory: Virtual Memory: 10401.66 MB used,  8348.87 MB free, 18750.53 MB total
+[2022.12.07-04.11.41:437][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.12.07-04.11.41:444][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.12.07-04.11.41:512][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.12.07-04.11.41:574][  0]LogInit: Using OS detected language (en-US).
+[2022.12.07-04.11.41:575][  0]LogInit: Using OS detected locale (en-AU).
+[2022.12.07-04.11.41:600][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.12.07-04.11.41:856][  0]LogInit: Setting process to per monitor DPI aware
+[2022.12.07-04.11.41:880][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.12.07-04.11.41:880][  0]LogWindowsTextInputMethodSystem:   - English (Australia) - (Keyboard).
+[2022.12.07-04.11.41:880][  0]LogWindowsTextInputMethodSystem: Activated input method: English (Australia) - (Keyboard).
+[2022.12.07-04.11.41:911][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.12.07-04.11.41:911][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.12.07-04.11.42:176][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.12.07-04.11.42:179][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.12.07-04.11.42:179][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.12.07-04.11.42:242][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.12.07-04.11.42:242][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.12.07-04.11.42:242][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.12.07-04.11.42:242][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.12.07-04.11.42:242][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.12.07-04.11.42:242][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.12.07-04.11.42:242][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.12.07-04.11.42:242][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.12.07-04.11.42:242][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.12.07-04.11.42:242][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.12.07-04.11.42:242][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.12.07-04.11.42:242][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.12.07-04.11.42:242][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.12.07-04.11.42:242][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.12.07-04.11.42:242][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.12.07-04.11.42:242][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.12.07-04.11.42:307][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.12.07-04.11.42:313][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.12.07-04.11.42:322][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.12.07-04.11.42:361][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.12.07-04.11.42:361][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.12.07-04.11.42:404][  0]LogD3D12RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2022.12.07-04.11.42:404][  0]LogWindows: Attached monitors:
+[2022.12.07-04.11.42:404][  0]LogWindows:     resolution: 3840x2160, work area: (0, 0) -> (3840, 2100), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.12.07-04.11.42:404][  0]LogWindows: Found 1 attached monitors.
+[2022.12.07-04.11.42:404][  0]LogWindows: EnumDisplayDevices:
+[2022.12.07-04.11.42:404][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.12.07-04.11.42:404][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.12.07-04.11.42:404][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.12.07-04.11.42:404][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.12.07-04.11.42:404][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.12.07-04.11.42:404][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2022.12.07-04.11.42:404][  0]LogD3D12RHI:   Driver Version: 516.93 (internal:31.0.15.1693, unified:516.93)
+[2022.12.07-04.11.42:404][  0]LogD3D12RHI:      Driver Date: 7-21-2022
+[2022.12.07-04.11.42:405][  0]LogRHI: Texture pool is 3283 MB (70% of 4690 MB)
+[2022.12.07-04.11.42:405][  0]LogD3D12RHI: Async texture creation enabled
+[2022.12.07-04.11.42:405][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.12.07-04.11.42:453][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.12.07-04.11.42:467][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/1022076/Documents/Unreal Projects/DungeonScene/DungeonScene.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/1022076/Documents/Unreal Projects/DungeonScene/Intermediate/TurnkeyReport_0.log" -log="C:/Users/1022076/Documents/Unreal Projects/DungeonScene/Intermediate/TurnkeyLog_0.log" -project="C:/Users/1022076/Documents/Unreal Projects/DungeonScene/DungeonScene.uproject"  -platform=all'
+[2022.12.07-04.11.42:467][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/UE5/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/1022076/Documents/Unreal Projects/DungeonScene/DungeonScene.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/1022076/Documents/Unreal Projects/DungeonScene/Intermediate/TurnkeyReport_0.log" -log="C:/Users/1022076/Documents/Unreal Projects/DungeonScene/Intermediate/TurnkeyLog_0.log" -project="C:/Users/1022076/Documents/Unreal Projects/DungeonScene/DungeonScene.uproject"  -platform=all" ]
+[2022.12.07-04.11.42:497][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.12.07-04.11.42:519][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.12.07-04.11.42:520][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.12.07-04.11.42:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.12.07-04.11.42:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.12.07-04.11.42:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.12.07-04.11.42:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.12.07-04.11.42:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.12.07-04.11.42:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.12.07-04.11.42:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.12.07-04.11.42:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.12.07-04.11.42:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.12.07-04.11.42:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.12.07-04.11.42:561][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = -2147450730
+[2022.12.07-04.11.42:561][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.12.07-04.11.42:561][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.12.07-04.11.42:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.12.07-04.11.42:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.12.07-04.11.42:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.12.07-04.11.42:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.12.07-04.11.42:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.12.07-04.11.42:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.12.07-04.11.42:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.12.07-04.11.42:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.12.07-04.11.42:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.12.07-04.11.42:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.12.07-04.11.42:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.12.07-04.11.42:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.12.07-04.11.42:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.12.07-04.11.42:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.12.07-04.11.42:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.12.07-04.11.42:590][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.12.07-04.11.42:606][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.12.07-04.11.42:610][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.12.07-04.11.42:610][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.12.07-04.11.42:610][  0]LogTargetPlatformManager:   ADPCM
+[2022.12.07-04.11.42:610][  0]LogTargetPlatformManager:   PCM
+[2022.12.07-04.11.42:615][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.12.07-04.11.42:615][  0]LogTargetPlatformManager:   BINKA
+[2022.12.07-04.11.42:615][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.12.07-04.11.42:615][  0]LogTargetPlatformManager:   OGG
+[2022.12.07-04.11.42:615][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.12.07-04.11.42:615][  0]LogTargetPlatformManager:   OPUS
+[2022.12.07-04.11.42:791][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.12.07-04.11.42:798][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.12.07-04.11.42:798][  0]LogTargetPlatformManager:   SF_METAL
+[2022.12.07-04.11.42:798][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.12.07-04.11.42:798][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.12.07-04.11.42:798][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.12.07-04.11.42:798][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.12.07-04.11.42:798][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.12.07-04.11.42:798][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.12.07-04.11.42:798][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.12.07-04.11.42:798][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.12.07-04.11.42:798][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.12.07-04.11.42:798][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.12.07-04.11.42:798][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.12.07-04.11.42:798][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.12.07-04.11.42:798][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.12.07-04.11.42:798][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.12.07-04.11.42:804][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.12.07-04.11.42:804][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.12.07-04.11.42:804][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.12.07-04.11.42:804][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.12.07-04.11.42:804][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.12.07-04.11.42:804][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.12.07-04.11.42:804][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.12.07-04.11.42:804][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.12.07-04.11.42:807][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Users/1022076/Documents/Unreal Projects/DungeonScene/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.12.07-04.11.42:808][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../Users/1022076/Documents/Unreal Projects/DungeonScene/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.12.07-04.11.42:808][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Users/1022076/Documents/Unreal Projects/DungeonScene/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.12.07-04.11.42:809][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../Users/1022076/Documents/Unreal Projects/DungeonScene/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.12.07-04.11.42:814][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/1022076/Documents/Unreal Projects/DungeonScene/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.12.07-04.11.42:814][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.12.07-04.11.42:814][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/1022076/Documents/Unreal Projects/DungeonScene/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.07-04.11.42:814][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.12.07-04.11.42:859][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.12.07-04.11.42:870][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.12.07-04.11.42:870][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.12.07-04.11.42:880][  0]LogDerivedDataCache: Speed tests for C:/Users/1022076/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.12.07-04.11.42:880][  0]LogDerivedDataCache: Display: Performance to C:/Users/1022076/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.23ms. RandomReadSpeed=191.05MBs, RandomWriteSpeed=394.97MBs. Assigned SpeedClass 'Local'
+[2022.12.07-04.11.42:882][  0]LogDerivedDataCache: Using Local data cache path C:/Users/1022076/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.12.07-04.11.42:882][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.12.07-04.11.42:882][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.12.07-04.11.42:887][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.12.07-04.11.42:887][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.12.07-04.11.42:895][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../Users/1022076/Documents/Unreal Projects/DungeonScene/Intermediate/Shaders/WorkingDirectory/9600/).
+[2022.12.07-04.11.42:895][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/1022076/AppData/Local/Temp/UnrealShaderWorkingDir/1E77BE934B550946A6C8248482FA6237/'.
+[2022.12.07-04.11.42:895][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.12.07-04.11.42:895][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
+[2022.12.07-04.11.44:499][  0]LogSlate: Using FreeType 2.10.0
+[2022.12.07-04.11.44:502][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.12.07-04.11.44:567][  0]LogAssetRegistry: FAssetRegistry took 0.0169 seconds to start up
+[2022.12.07-04.11.44:577][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.12.07-04.11.44:838][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.12.07-04.11.44:845][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.12.07-04.11.45:106][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.12.07-04.11.45:106][  0]LogDeviceProfileManager: Active device profile: [0000082E16326040][0000082E09F20000 50] WindowsEditor
+[2022.12.07-04.11.45:106][  0]LogDeviceProfileManager: Profiles: [0000082E16325B00][0000082E09E8A000 50] Windows, [0000082E16326040][0000082E09F20000 50] WindowsEditor, [0000082E16325240][0000082E09EE2800 50] WindowsServer, [0000082E163255C0][0000082DF7A7C800 50] WindowsClient, [0000082E163216C0][0000082E16530000 50] IOS, [0000082E16325400][0000082E16535000 50] iPadAir2, [0000082E16324EC0][0000082E1653A000 50] IPadPro, [0000082E16322680][0000082E16537800 50] iPadAir3, [0000082E16323640][0000082E1653C800 50] iPadAir4, [0000082E16322A00][0000082E09EE5000 50] iPadMini4, [0000082E16322D80][0000082E16550000 50] iPadMini5, [0000082E16326AC0][0000082E16555000 50] iPadMini6, [0000082E16329140][0000082E1655C800 50] iPhone6S, [0000082E163294C0][0000082E1655A000 50] iPhone7, [0000082E16329840][0000082E16557800 50] iPodTouch7, [0000082E16321880][0000082E16532800 50] iPhone6SPlus, [0000082E16328A40][0000082E16560000 50] iPhone7Plus, [0000082E16325E80][0000082E16565000 50] iPhoneSE, [0000082E16324280][0000082E16567800 50] iPhone8, [0000082E16328880][0000082E1656A000 50] iPhone8Plus, [0000082E163263C0][0000082E1656C800 50] iPhoneX, [0000082E163286C0][0000082E16552800 50] iPhoneXS, [0000082E16329680][0000082E165A0000 50] iPhoneXSMax, [0000082E16321DC0][0000082E165A5000 50] iPhoneXR, [0000082E16328F80][0000082E165A7800 50] iPhone11, [0000082E163247C0][0000082E165AA000 50] iPhone11Pro, [0000082E16328340][0000082E165AC800 50] iPhone11ProMax, [0000082E16323F00][0000082E16562800 50] iPhoneSE2, [0000082E16328180][0000082E165B0000 50] iPhone12Mini, [0000082E163240C0][0000082E165B5000 50] iPhone12, [0000082E16327FC0][0000082E165B7800 50] iPhone12Pro, [0000082E16322BC0][0000082E165BA000 50] iPhone12ProMax, [0000082E16327E00][0000082E165BC800 50] iPhone13Mini, [0000082E16323100][0000082E165A2800 50] iPhone13, [0000082E16324600][0000082E165C0000 50] iPhone13Pro, [0000082E16326580][0000082E165C5000 50] iPhone13ProMax, [0000082E16328DC0][0000082E165C7800 50] iPadPro105, [0000082E16327000][0000082E165CA000 50] iPadPro129, [0000082E16321180][0000082E165CC800 50] iPadPro97, [0000082E16327380][0000082E165B2800 50] iPadPro2_129, [0000082E16323B80][0000082E165D0000 50] iPad5, [0000082E16327A80][0000082E165D5000 50] iPad6, [0000082E16325080][0000082E165D7800 50] iPad7, [0000082E16329BC0][0000082E165DA000 50] iPad8, [0000082E16322300][0000082E165DC800 50] iPad9, [0000082E16322F40][0000082E165C2800 50] iPadPro11, [0000082E16321F80][0000082E165E0000 50] iPadPro2_11, [0000082E16323800][0000082E165E5000 50] iPadPro3_11, [0000082E16324980][0000082E165E7800 50] iPadPro3_129, [0000082E16323480][0000082E165EA000 50] iPadPro4_129, [0000082E16321C00][0000082E165EC800 50] iPadPro5_129, [0000082E16321500][0000082E165D2800 50] AppleTV, [0000082E163224C0][0000082E165F0000 50] AppleTV4K, [0000082E16325780][0000082E165F5000 50] TVOS, [0000082E1632B980][0000082E165FA000 50] Mac, [0000082E1632B7C0][0000082E165F7800 50] MacEditor, [0000082E1632B280][0000082E165FC800 50] MacClient, [0000082E1632AD40][0000082E165E2800 50] MacServer, [0000082E1632BEC0][0000082E16602800 50] Linux, [0000082E1632C240][0000082E16600000 50] LinuxEditor, [0000082E16326740][0000082E16607800 50] LinuxArm64Editor, [0000082E1632B440][0000082E1660A000 50] LinuxArm64, [0000082E16324440][0000082E1660C800 50] LinuxClient, [0000082E1632C400][0000082E165F2800 50] LinuxArm64Client, [0000082E16321A40][0000082E16610000 50] LinuxServer, [0000082E16328500][0000082E16615000 50] LinuxArm64Server, [0000082E16327700][0000082E16617800 50] Android, [0000082E16329F40][0000082E1661A000 50] Android_Preview_OpenGL, [0000082E163271C0][0000082E1661C800 50] Android_Preview_Vulkan, [0000082E163232C0][0000082E16605000 50] Android_Low, [0000082E16322840][0000082E16620000 50] Android_Mid, [0000082E1632A480][0000082E16625000 50] Android_High, [0000082E16329A00][0000082E16627800 50] Android_Default, [0000082E1632BD00][0000082E1662A000 50] Android_Adreno4xx, [0000082E16321340][0000082E1662C800 50] Android_Adreno5xx_Low, [0000082E16326200][0000082E16612800 50] Android_Adreno5xx, [0000082E1632A100][0000082E16630000 50] Android_Adreno6xx, [0000082E16328C00][0000082E16635000 50] Android_Adreno6xx_Vulkan, [0000082E1632A640][0000082E16637800 50] Android_Adreno7xx, [0000082E16327540][0000082E1663A000 50] Android_Adreno7xx_Vulkan, [0000082E1632BB40][0000082E1663C800 50] Android_Mali_T6xx, [0000082E1632AF00][0000082E16622800 50] Android_Mali_T7xx, [0000082E16326C80][0000082E16640000 50] Android_Mali_T8xx, [0000082E163278C0][0000082E16645000 50] Android_Mali_G71, [0000082E1632A2C0][0000082E16647800 50] Android_Mali_G72, [0000082E1632B0C0][0000082E1664A000 50] Android_Mali_G72_Vulkan, [0000082E1632A800][0000082E1664C800 50] Android_Mali_G76, [0000082E1632CB00][0000082E16632800 50] Android_Mali_G76_Vulkan, [0000082E1632A9C0][0000082E16650000 50] Android_Mali_G77, [0000082E1632CCC0][0000082E16655000 50] Android_Mali_G77_Vulkan, [0000082E16327C40][0000082E16657800 50] Android_Mali_G78, [0000082E1632CE80][0000082E1665A000 50] Android_Mali_G78_Vulkan, [0000082E1632D740][0000082E1665C800 50] Android_Mali_G710, [0000082E163239C0][0000082E16642800 50] Android_Mali_G710_Vulkan, [0000082E1632D040][0000082E16660000 50] Android_Xclipse_920, [0000082E16323D40][0000082E16665000 50] Android_Xclipse_920_Vulkan, [0000082E1632D200][0000082E16667800 50] Android_Vulkan_SM5, [0000082E1632C5C0][0000082E1666A000 50] Android_PowerVR_G6xxx, [0000082E1632DC80][0000082E1666C800 50] Android_PowerVR_GT7xxx, [0000082E16329D80][0000082E16652800 50] Android_PowerVR_GE8xxx, [0000082E1632C940][0000082E16670000 50] Android_PowerVR_GM9xxx, [0000082E1632B600][0000082E16675000 50] Android_PowerVR_GM9xxx_Vulkan, [0000082E1632E000][0000082E16677800 50] Android_TegraK1, [0000082E1632EE00][0000082E1667A000 50] Android_Unknown_Vulkan, [0000082E1632E1C0][0000082E1667C800 50] Oculus_Quest, [0000082E1632C780][0000082E16662800 50] Oculus_Quest2, [0000082E16329300][0000082E16680000 50] HoloLens, 
+[2022.12.07-04.11.45:106][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.12.07-04.11.45:224][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.12.07-04.11.45:559][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.12.07-04.11.45:559][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.12.07-04.11.45:559][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.12.07-04.11.45:559][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.12.07-04.11.45:560][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.12.07-04.11.45:594][  0]LogNetVersion: DungeonScene 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 2724249804)
+[2022.12.07-04.11.45:795][  0]LogSlate: Border
+[2022.12.07-04.11.45:795][  0]LogSlate: BreadcrumbButton
+[2022.12.07-04.11.45:795][  0]LogSlate: Default
+[2022.12.07-04.11.45:795][  0]LogSlate: Icons.Save
+[2022.12.07-04.11.45:795][  0]LogSlate: Icons.Toolbar.Settings
+[2022.12.07-04.11.45:795][  0]LogSlate: ListView
+[2022.12.07-04.11.45:795][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.12.07-04.11.45:795][  0]LogSlate: SoftwareCursor_Grab
+[2022.12.07-04.11.45:795][  0]LogSlate: TableView.DarkRow
+[2022.12.07-04.11.45:795][  0]LogSlate: TableView.Row
+[2022.12.07-04.11.45:795][  0]LogSlate: TreeView
+[2022.12.07-04.11.46:259][  0]SourceControl: Source control is disabled
+[2022.12.07-04.11.46:300][  0]SourceControl: Source control is disabled
+[2022.12.07-04.11.46:300][  0]SourceControl: Source control is disabled
+[2022.12.07-04.11.46:522][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.12.07-04.11.46:522][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.12.07-04.11.46:522][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.12.07-04.11.47:474][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: D99C060C447A0D5BE4E227AAF49AEA56 | Instance: 6191980E48B1A2C617C1789C0D4F026F (PER-R306-13W-9600).
+[2022.12.07-04.11.47:609][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.12.07-04.11.47:619][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.12.07-04.11.47:650][  0]LogPython: Using Python 3.9.7
+[2022.12.07-04.11.48:649][  0]SourceControl: Source control is disabled
+[2022.12.07-04.11.48:663][  0]SourceControl: Source control is disabled
+[2022.12.07-04.11.48:669][  0]SourceControl: Source control is disabled
+[2022.12.07-04.11.48:679][  0]LogUProjectInfo: Found projects:
+[2022.12.07-04.11.49:385][  0]LogOpenImageDenoise: OIDN starting up
+[2022.12.07-04.11.49:402][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.12.07-04.11.49:424][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.07-04.11.49:424][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.12.07-04.11.49:571][  0]LogCollectionManager: Loaded 0 collections in 0.002378 seconds
+[2022.12.07-04.11.49:705][  0]LogFileCache: Scanning file cache for directory 'C:/Users/1022076/Documents/Unreal Projects/DungeonScene/Saved/Collections/' took 0.00s
+[2022.12.07-04.11.49:705][  0]LogFileCache: Scanning file cache for directory 'C:/Users/1022076/Documents/Unreal Projects/DungeonScene/Content/Developers/1022076/Collections/' took 0.00s
+[2022.12.07-04.11.49:705][  0]LogFileCache: Scanning file cache for directory 'C:/Users/1022076/Documents/Unreal Projects/DungeonScene/Content/Collections/' took 0.00s
+[2022.12.07-04.11.50:148][  0]LogEngine: Initializing Engine...
+[2022.12.07-04.11.50:170][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.12.07-04.11.50:173][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.12.07-04.11.50:481][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.12.07-04.11.50:488][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.07-04.11.50:512][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.07-04.11.50:571][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.12.07-04.11.50:580][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.12.07-04.11.50:605][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.12.07-04.11.50:606][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.12.07-04.11.50:606][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.12.07-04.11.50:608][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.12.07-04.11.50:608][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.12.07-04.11.50:609][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.07-04.11.50:609][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.07-04.11.50:609][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.07-04.11.50:609][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.07-04.11.50:609][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.07-04.11.50:609][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.07-04.11.50:609][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.07-04.11.50:610][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.07-04.11.50:611][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.07-04.11.50:611][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.07-04.11.50:611][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.07-04.11.50:624][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.07-04.11.50:660][  0]LogAudioMixer: Display: Using Audio Hardware Device U28E590 (NVIDIA High Definition Audio)
+[2022.12.07-04.11.50:663][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.07-04.11.50:667][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.07-04.11.50:667][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.07-04.11.50:670][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.12.07-04.11.50:670][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.12.07-04.11.50:672][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.12.07-04.11.50:672][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.12.07-04.11.50:672][  0]LogInit: FAudioDevice initialized.
+[2022.12.07-04.11.50:672][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.12.07-04.11.50:673][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.12.07-04.11.50:673][  0]LogInit: Texture streaming: Enabled
+[2022.12.07-04.11.50:711][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.12.07-04.11.50:722][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.12.07-04.11.50:750][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.12.07-04.11.50:764][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.12.07-04.11.50:764][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.12.07-04.11.54:499][  0]LogLiveCoding: Display: First instance in process group "UE_DungeonScene_0xe579267b", spawning console
+[2022.12.07-04.11.54:499][  0]LogLiveCoding: Display: Waiting for server
+[2022.12.07-04.11.54:499][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.12.07-04.11.54:516][  0]LogInit: Transaction tracking system initialized
+[2022.12.07-04.11.54:636][  0]BlueprintLog: New page: Editor Load
+[2022.12.07-04.11.54:931][  0]LocalizationService: Localization service is disabled
+[2022.12.07-04.11.55:012][  0]TimingProfiler: Initialize
+[2022.12.07-04.11.55:013][  0]TimingProfiler: OnSessionChanged
+[2022.12.07-04.11.55:013][  0]LoadingProfiler: Initialize
+[2022.12.07-04.11.55:014][  0]LoadingProfiler: OnSessionChanged
+[2022.12.07-04.11.55:015][  0]NetworkingProfiler: Initialize
+[2022.12.07-04.11.55:017][  0]NetworkingProfiler: OnSessionChanged
+[2022.12.07-04.11.55:017][  0]MemoryProfiler: Initialize
+[2022.12.07-04.11.55:017][  0]MemoryProfiler: OnSessionChanged
+[2022.12.07-04.11.55:968][  0]LogFileCache: Scanning file cache for directory 'C:/Users/1022076/Documents/Unreal Projects/DungeonScene/Content/' took 0.01s
+[2022.12.07-04.11.55:969][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.12.07-04.11.56:069][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.12.07-04.11.56:074][  0]SourceControl: Source control is disabled
+[2022.12.07-04.11.56:075][  0]LogUnrealEdMisc: Loading editor; pre map load, took 22.362
+[2022.12.07-04.11.56:077][  0]Cmd: MAP LOAD FILE="../../../../../Users/1022076/Documents/Unreal Projects/DungeonScene/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-04.11.56:079][  0]LightingResults: New page: Lighting Build
+[2022.12.07-04.11.56:091][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-04.11.56:093][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-04.11.56:094][  0]MapCheck: New page: Map Check
+[2022.12.07-04.11.56:094][  0]LightingResults: New page: Lighting Build
+[2022.12.07-04.11.56:110][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-04.11.56:121][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.12.07-04.11.56:238][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair should be resaved to improve async compilation performance.
+[2022.12.07-04.11.56:253][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.12.07-04.11.56:253][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.07-04.11.56:253][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.07-04.11.56:254][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.12.07-04.11.56:275][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.07-04.11.56:286][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.12.07-04.11.56:287][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.07-04.11.56:287][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.387ms to complete.
+[2022.12.07-04.11.56:288][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.212
+[2022.12.07-04.11.56:329][  0]LogUnrealEdMisc: Total Editor Startup Time, took 22.616
+[2022.12.07-04.11.56:329][  0]LogShaderCompilers: Display: ================================================
+[2022.12.07-04.11.56:329][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.07-04.11.56:329][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.12.07-04.11.56:329][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.12.07-04.11.56:329][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.12.07-04.11.56:329][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.07-04.11.56:329][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.12.07-04.11.56:329][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.12.07-04.11.56:329][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.12.07-04.11.56:329][  0]LogShaderCompilers: Display: ================================================
+[2022.12.07-04.11.56:450][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-04.11.56:457][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-04.11.56:462][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-04.11.56:467][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.07-04.11.56:514][  0]LogPakFile: Display: Mounted Pak file 'C:/UE5/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.12.07-04.11.56:515][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.07-04.11.56:518][  0]LogPakFile: Display: Mounted Pak file 'C:/UE5/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.12.07-04.11.56:518][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.07-04.11.56:519][  0]LogPakFile: Display: Mounted Pak file 'C:/UE5/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.12.07-04.11.56:519][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.07-04.11.56:520][  0]LogPakFile: Display: Mounted Pak file 'C:/UE5/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.12.07-04.11.56:520][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.07-04.11.56:525][  0]LogPakFile: Display: Mounted Pak file 'C:/UE5/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.12.07-04.11.56:525][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.07-04.11.56:526][  0]LogPakFile: Display: Mounted Pak file 'C:/UE5/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.12.07-04.11.56:526][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.07-04.11.56:527][  0]LogPakFile: Display: Mounted Pak file 'C:/UE5/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.12.07-04.11.56:527][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.07-04.11.56:529][  0]LogPakFile: Display: Mounted Pak file 'C:/UE5/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.12.07-04.11.56:529][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.07-04.11.56:531][  0]LogPakFile: Display: Mounted Pak file 'C:/UE5/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.12.07-04.11.56:531][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.07-04.11.56:533][  0]LogPakFile: Display: Mounted Pak file 'C:/UE5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.12.07-04.11.56:533][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.12.07-04.11.56:533][  0]LogFeaturePack: Error: Error in Feature pack C:/UE5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.12.07-04.11.56:879][  0]LogSlate: Took 0.001154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.07-04.11.56:884][  0]LogSlate: Took 0.000813 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.12.07-04.11.56:886][  0]LogSlate: Took 0.000655 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.07-04.11.56:888][  0]LogSlate: Took 0.000638 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.12.07-04.11.56:889][  0]LogSlate: Took 0.000767 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.12.07-04.11.56:910][  0]LogViewport: Scene viewport resized to 3056x1413, mode Windowed.
+[2022.12.07-04.11.57:415][  0]LogStall: Startup...
+[2022.12.07-04.11.57:416][  0]LogStall: Startup complete.
+[2022.12.07-04.11.57:447][  0]LogLoad: (Engine Initialization) Total time: 23.73 seconds
+[2022.12.07-04.11.57:447][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.12.07-04.11.57:553][  0]LogAssetRegistry: Asset discovery search completed in 12.9882 seconds
+[2022.12.07-04.11.57:564][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.12.07-04.11.57:601][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.12.07-04.11.58:146][  2]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.12.07-04.11.58:146][  2]LogSlate: Took 0.000669 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.07-04.12.18:134][902]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.12.07-04.12.19:948][902]LogObjectTools: Deleting 3 worlds: /Game/ASSETPACKS/AncientTreasures/Maps/Overview.Overview, /Game/ASSETPACKS/AncientTreasures/Maps/Demonstration.Demonstration, /Game/ASSETPACKS/MedievalDungeon/Maps/Demonstration.Demonstration
+[2022.12.07-04.12.19:948][902]LogObjectTools: Currently 1 active worlds: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.12.07-04.12.19:961][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.12.07-04.12.33:760][902]LogConsoleManager: Warning: Performance warning: Console object named 'Editor.UseLegacyGetReferencersForDeletion' shows many (500) FindConsoleObject() calls (consider caching e.g. using static)
+[2022.12.07-04.12.53:402][902]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.07-04.12.53:438][902]LogUObjectGlobals: Force Deleting 724 Package(s):
+	Asset Name: /Game/ASSETPACKS/AncientTreasures/Blueprints/BP_FireCoals_01a.BP_FireCoals_01a
+	Asset Type: Blueprint
+	Asset Name: /Game/ASSETPACKS/AncientTreasures/Maps/Overview_BuiltData.Overview_BuiltData
+	Asset Type: MapBuildDataRegistry
+	Asset Name: /Game/ASSETPACKS/AncientTreasures/Maps/Demonstration_BuiltData.Demonstration_BuiltData
+	Asset Type: MapBuildDataRegistry
+	Asset Name: /Game/ASSETPACKS/AncientTreasures/Maps/Overview.Overview
+	Asset Type: World
+	Asset Name: /Game/ASSETPACKS/AncientTreasures/Maps/Demonstration.Demonstration
+	Asset Type: World
+	Asset Name: /Game/ASSETPACKS/AncientTreasures/Materials/Functions/MF_Sand_01a.MF_Sand_01a
+	Asset Type: MaterialFunction
+	Asset Name: /Game/ASSETPACKS/AncientTreasures/Materials/Functions/MF_Fresnel_01a.MF_Fresnel_01a
+	Asset Type: MaterialFunction
+	Asset Name: /Game/ASSETPACKS/AncientTreasures/Materials/Instances/MI_WaterPot_01a.MI_WaterPot_01a
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/ASSETPACKS/AncientTreasures/Materials/Instances/MI_Urn_05a.MI_Urn_05a
+	Asset Type: MaterialInstanceConstant
+	Asset Name: /Game/ASSETPACKS/AncientTreasures/Materials/Instances/MI_Urn_04a.MI_Urn_04a
+	Asset Type: MaterialInstanceConstant
+[2022.12.07-04.12.55:177][902]LogMaterial: Display: Missing cached shadermap for MM_Master_Material_01a in PCD3D_SM5, Default, SM5 (DDC key hash: 18DF7831AACDE052E0770C5B803F5195DBB2EAB3), compiling. 
+[2022.12.07-04.12.55:180][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\AncientTreasures\Materials\Masters\MM_Master_Material_01a.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Normal
+	Missing Material Function
+	(Node MakeMaterialAttributes) Error on property BaseColor
+	(Node TextureSampleParameter2D) R = Roughness | G = Metalness | B = Ambient Occlusion | A = Other > Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2022.12.07-04.12.55:188][902]LogMaterial: Display: Missing cached shadermap for MM_Master_Material_01a in PCD3D_SM5, Default, SM5 (DDC key hash: 18DF7831AACDE052E0770C5B803F5195DBB2EAB3), compiling. 
+[2022.12.07-04.12.55:189][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\AncientTreasures\Materials\Masters\MM_Master_Material_01a.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Normal
+	Missing Material Function
+	(Node MakeMaterialAttributes) Error on property BaseColor
+	(Node TextureSampleParameter2D) R = Roughness | G = Metalness | B = Ambient Occlusion | A = Other > Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2022.12.07-04.12.55:197][902]LogMaterial: Display: Missing cached shadermap for MM_Master_Material_01a in PCD3D_SM5, Default, SM5 (DDC key hash: 18DF7831AACDE052E0770C5B803F5195DBB2EAB3), compiling. 
+[2022.12.07-04.12.55:198][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\AncientTreasures\Materials\Masters\MM_Master_Material_01a.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Normal
+	Missing Material Function
+	(Node MakeMaterialAttributes) Error on property BaseColor
+	(Node TextureSampleParameter2D) R = Roughness | G = Metalness | B = Ambient Occlusion | A = Other > Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2022.12.07-04.12.55:206][902]LogMaterial: Display: Missing cached shadermap for MM_Master_Material_01a in PCD3D_SM5, Default, SM5 (DDC key hash: 18DF7831AACDE052E0770C5B803F5195DBB2EAB3), compiling. 
+[2022.12.07-04.12.55:207][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\AncientTreasures\Materials\Masters\MM_Master_Material_01a.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Normal
+	Missing Material Function
+	(Node MakeMaterialAttributes) Error on property BaseColor
+	(Node TextureSampleParameter2D) R = Roughness | G = Metalness | B = Ambient Occlusion | A = Other > Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2022.12.07-04.12.55:215][902]LogMaterial: Display: Missing cached shadermap for MM_Master_Material_01a in PCD3D_SM5, Default, SM5 (DDC key hash: 18DF7831AACDE052E0770C5B803F5195DBB2EAB3), compiling. 
+[2022.12.07-04.12.55:217][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\AncientTreasures\Materials\Masters\MM_Master_Material_01a.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Normal
+	Missing Material Function
+	(Node MakeMaterialAttributes) Error on property BaseColor
+	(Node TextureSampleParameter2D) R = Roughness | G = Metalness | B = Ambient Occlusion | A = Other > Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2022.12.07-04.12.55:225][902]LogMaterial: Display: Missing cached shadermap for MM_Master_Material_01a in PCD3D_SM5, Default, SM5 (DDC key hash: 18DF7831AACDE052E0770C5B803F5195DBB2EAB3), compiling. 
+[2022.12.07-04.12.55:226][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\AncientTreasures\Materials\Masters\MM_Master_Material_01a.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Normal
+	Missing Material Function
+	(Node MakeMaterialAttributes) Error on property BaseColor
+	(Node TextureSampleParameter2D) R = Roughness | G = Metalness | B = Ambient Occlusion | A = Other > Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2022.12.07-04.12.55:256][902]LogStaticMesh: Display: Building static mesh SM_Coal_01a...
+[2022.12.07-04.12.55:256][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Coal_01a.SM_Coal_01a
+[2022.12.07-04.12.55:282][902]LogStaticMesh: Display: Building static mesh SM_Torch_01a...
+[2022.12.07-04.12.55:282][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Torch_01a) ...
+[2022.12.07-04.12.55:324][902]LogStaticMesh: Built static mesh [0.03s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Torch_01a.SM_Torch_01a
+[2022.12.07-04.12.55:327][902]LogMaterial: Display: Missing cached shadermap for MM_Fire_01a in PCD3D_SM5, Default, SM5 (DDC key hash: D96D2D49B4F4299191D27AD5F90FF91D22B8E96B), compiling. 
+[2022.12.07-04.12.55:327][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\AncientTreasures\Materials\Masters\MM_Fire_01a.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameterSubUV) Parameter SubUV> Found NULL, requires Texture2D
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.07-04.12.55:329][902]LogMaterial: Warning: None: Requesting an invalid TextureIndex! (3 / 2)
+[2022.12.07-04.12.55:443][902]LogStaticMesh: Display: Building static mesh SM_Band_01a...
+[2022.12.07-04.12.55:443][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Band_01a.SM_Band_01a
+[2022.12.07-04.12.55:469][902]LogStaticMesh: Display: Building static mesh SM_Bangle_01a...
+[2022.12.07-04.12.55:469][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Bangle_01a) ...
+[2022.12.07-04.12.55:486][902]LogStaticMesh: Built static mesh [0.03s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Bangle_01a.SM_Bangle_01a
+[2022.12.07-04.12.55:498][902]LogStaticMesh: Display: Building static mesh SM_Bangle_01b...
+[2022.12.07-04.12.55:498][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Bangle_01b.SM_Bangle_01b
+[2022.12.07-04.12.55:516][902]LogStaticMesh: Display: Building static mesh SM_Bangle_01c...
+[2022.12.07-04.12.55:516][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Bangle_01c.SM_Bangle_01c
+[2022.12.07-04.12.55:516][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Bangle_01c) ...
+[2022.12.07-04.12.55:533][902]LogStaticMesh: Display: Building static mesh SM_Bangle_01d...
+[2022.12.07-04.12.55:533][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Bangle_01d.SM_Bangle_01d
+[2022.12.07-04.12.55:544][902]LogStaticMesh: Display: Building static mesh SM_Bangle_01e...
+[2022.12.07-04.12.55:544][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Bangle_01e.SM_Bangle_01e
+[2022.12.07-04.12.55:555][902]LogStaticMesh: Display: Building static mesh SM_Bangle_01f...
+[2022.12.07-04.12.55:555][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Bangle_01f.SM_Bangle_01f
+[2022.12.07-04.12.55:565][902]LogStaticMesh: Display: Building static mesh SM_Bangle_01g...
+[2022.12.07-04.12.55:565][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Bangle_01g.SM_Bangle_01g
+[2022.12.07-04.12.55:575][902]LogStaticMesh: Display: Building static mesh SM_Bangle_01h...
+[2022.12.07-04.12.55:575][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Bangle_01h.SM_Bangle_01h
+[2022.12.07-04.12.55:588][902]LogStaticMesh: Display: Building static mesh SM_Bangle_01i...
+[2022.12.07-04.12.55:588][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Bangle_01i.SM_Bangle_01i
+[2022.12.07-04.12.55:610][902]LogStaticMesh: Display: Building static mesh SM_Bangle_01j...
+[2022.12.07-04.12.55:610][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Bangle_01j.SM_Bangle_01j
+[2022.12.07-04.12.55:713][902]LogStaticMesh: Display: Building static mesh SM_Bowl_01a...
+[2022.12.07-04.12.55:713][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Bowl_01a) ...
+[2022.12.07-04.12.55:738][902]LogStaticMesh: Built static mesh [0.03s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Bowl_01a.SM_Bowl_01a
+[2022.12.07-04.12.55:763][902]LogStaticMesh: Display: Building static mesh SM_Chalice_01a...
+[2022.12.07-04.12.55:763][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chalice_01a) ...
+[2022.12.07-04.12.55:772][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chalice_01a.SM_Chalice_01a
+[2022.12.07-04.12.55:797][902]LogStaticMesh: Display: Building static mesh SM_Chalice_02a...
+[2022.12.07-04.12.55:797][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chalice_02a) ...
+[2022.12.07-04.12.55:805][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chalice_02a.SM_Chalice_02a
+[2022.12.07-04.12.55:848][902]LogStaticMesh: Display: Building static mesh SM_Chest_01a...
+[2022.12.07-04.12.55:848][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chest_01a) ...
+[2022.12.07-04.12.55:889][902]LogStaticMesh: Built static mesh [0.05s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chest_01a.SM_Chest_01a
+[2022.12.07-04.12.55:907][902]LogStaticMesh: Display: Building static mesh SM_Chest_01b...
+[2022.12.07-04.12.55:907][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chest_01b) ...
+[2022.12.07-04.12.55:950][902]LogStaticMesh: Built static mesh [0.05s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chest_01b.SM_Chest_01b
+[2022.12.07-04.12.55:968][902]LogStaticMesh: Display: Building static mesh SM_Chest_01c...
+[2022.12.07-04.12.55:968][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chest_01c) ...
+[2022.12.07-04.12.56:003][902]LogStaticMesh: Built static mesh [0.04s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chest_01c.SM_Chest_01c
+[2022.12.07-04.12.56:018][902]LogStaticMesh: Display: Building static mesh SM_Chest_01d...
+[2022.12.07-04.12.56:018][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chest_01d.SM_Chest_01d
+[2022.12.07-04.12.56:100][902]LogStaticMesh: Display: Building static mesh SM_Chest_02a...
+[2022.12.07-04.12.56:100][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chest_02a) ...
+[2022.12.07-04.12.56:109][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chest_02a.SM_Chest_02a
+[2022.12.07-04.12.56:127][902]LogStaticMesh: Display: Building static mesh SM_Chest_02b...
+[2022.12.07-04.12.56:127][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chest_02b) ...
+[2022.12.07-04.12.56:141][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chest_02b.SM_Chest_02b
+[2022.12.07-04.12.56:160][902]LogStaticMesh: Display: Building static mesh SM_Chest_02c...
+[2022.12.07-04.12.56:160][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chest_02c) ...
+[2022.12.07-04.12.56:190][902]LogStaticMesh: Built static mesh [0.04s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chest_02c.SM_Chest_02c
+[2022.12.07-04.12.56:208][902]LogStaticMesh: Display: Building static mesh SM_Chest_02d...
+[2022.12.07-04.12.56:208][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chest_02d) ...
+[2022.12.07-04.12.56:237][902]LogStaticMesh: Built static mesh [0.04s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chest_02d.SM_Chest_02d
+[2022.12.07-04.12.56:262][902]LogStaticMesh: Display: Building static mesh SM_ClayPot_01...
+[2022.12.07-04.12.56:262][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_ClayPot_01.SM_ClayPot_01
+[2022.12.07-04.12.56:262][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_ClayPot_01) ...
+[2022.12.07-04.12.56:294][902]LogStaticMesh: Display: Building static mesh SM_ClayPot_02...
+[2022.12.07-04.12.56:294][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_ClayPot_02) ...
+[2022.12.07-04.12.56:304][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_ClayPot_02.SM_ClayPot_02
+[2022.12.07-04.12.56:326][902]LogStaticMesh: Display: Building static mesh SM_ClayPot_03a...
+[2022.12.07-04.12.56:326][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_ClayPot_03a.SM_ClayPot_03a
+[2022.12.07-04.12.56:342][902]LogStaticMesh: Display: Building static mesh SM_ClayPot_03b...
+[2022.12.07-04.12.56:342][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_ClayPot_03b.SM_ClayPot_03b
+[2022.12.07-04.12.56:357][902]LogStaticMesh: Display: Building static mesh SM_ClayPot_03c...
+[2022.12.07-04.12.56:357][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_ClayPot_03c.SM_ClayPot_03c
+[2022.12.07-04.12.56:370][902]LogStaticMesh: Display: Building static mesh SM_ClayPot_03d...
+[2022.12.07-04.12.56:370][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_ClayPot_03d.SM_ClayPot_03d
+[2022.12.07-04.12.56:382][902]LogStaticMesh: Display: Building static mesh SM_ClayPot_03e...
+[2022.12.07-04.12.56:382][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_ClayPot_03e.SM_ClayPot_03e
+[2022.12.07-04.12.56:393][902]LogStaticMesh: Display: Building static mesh SM_ClayPot_03f...
+[2022.12.07-04.12.56:393][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_ClayPot_03f.SM_ClayPot_03f
+[2022.12.07-04.12.56:406][902]LogStaticMesh: Display: Building static mesh SM_ClayPot_03g...
+[2022.12.07-04.12.56:406][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_ClayPot_03g.SM_ClayPot_03g
+[2022.12.07-04.12.56:419][902]LogStaticMesh: Display: Building static mesh SM_ClayPot_03h...
+[2022.12.07-04.12.56:419][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_ClayPot_03h.SM_ClayPot_03h
+[2022.12.07-04.12.56:437][902]LogStaticMesh: Display: Building static mesh SM_ClayPot_03i...
+[2022.12.07-04.12.56:437][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_ClayPot_03i.SM_ClayPot_03i
+[2022.12.07-04.12.56:446][902]LogStaticMesh: Display: Building static mesh SM_ClayPot_03j...
+[2022.12.07-04.12.56:446][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_ClayPot_03j.SM_ClayPot_03j
+[2022.12.07-04.12.56:544][902]LogStaticMesh: Display: Building static mesh SM_Coin_01a...
+[2022.12.07-04.12.56:544][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Coin_01a.SM_Coin_01a
+[2022.12.07-04.12.56:561][902]LogStaticMesh: Display: Building static mesh SM_Coin_02a...
+[2022.12.07-04.12.56:561][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Coin_02a.SM_Coin_02a
+[2022.12.07-04.12.56:590][902]LogStaticMesh: Display: Building static mesh SM_Coin_Pile_01a...
+[2022.12.07-04.12.56:590][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Coin_Pile_01a) ...
+[2022.12.07-04.12.56:606][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Coin_Pile_01a.SM_Coin_Pile_01a
+[2022.12.07-04.12.56:624][902]LogStaticMesh: Display: Building static mesh SM_Coin_Pile_01b...
+[2022.12.07-04.12.56:624][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Coin_Pile_01b) ...
+[2022.12.07-04.12.56:640][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Coin_Pile_01b.SM_Coin_Pile_01b
+[2022.12.07-04.12.56:658][902]LogStaticMesh: Display: Building static mesh SM_Coin_Pile_01c...
+[2022.12.07-04.12.56:658][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Coin_Pile_01c) ...
+[2022.12.07-04.12.56:672][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Coin_Pile_01c.SM_Coin_Pile_01c
+[2022.12.07-04.12.56:691][902]LogStaticMesh: Display: Building static mesh SM_Coin_Pile_01d...
+[2022.12.07-04.12.56:691][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Coin_Pile_01d.SM_Coin_Pile_01d
+[2022.12.07-04.12.56:691][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Coin_Pile_01d) ...
+[2022.12.07-04.12.56:715][902]LogStaticMesh: Display: Building static mesh SM_Coin_Pile_01e...
+[2022.12.07-04.12.56:716][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Coin_Pile_01e) ...
+[2022.12.07-04.12.56:726][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Coin_Pile_01e.SM_Coin_Pile_01e
+[2022.12.07-04.12.56:744][902]LogStaticMesh: Display: Building static mesh SM_Coin_Pile_01f...
+[2022.12.07-04.12.56:744][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Coin_Pile_01f.SM_Coin_Pile_01f
+[2022.12.07-04.12.56:744][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Coin_Pile_01f) ...
+[2022.12.07-04.12.56:763][902]LogStaticMesh: Display: Building static mesh SM_Coin_Pile_01g...
+[2022.12.07-04.12.56:763][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Coin_Pile_01g.SM_Coin_Pile_01g
+[2022.12.07-04.12.56:776][902]LogStaticMesh: Display: Building static mesh SM_Coin_Pile_01h...
+[2022.12.07-04.12.56:776][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Coin_Pile_01h.SM_Coin_Pile_01h
+[2022.12.07-04.12.56:788][902]LogStaticMesh: Display: Building static mesh SM_Coin_Pile_01i...
+[2022.12.07-04.12.56:789][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Coin_Pile_01i.SM_Coin_Pile_01i
+[2022.12.07-04.12.56:907][902]LogStaticMesh: Display: Building static mesh SM_CoinMaterial_01a...
+[2022.12.07-04.12.56:907][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_CoinMaterial_01a) ...
+[2022.12.07-04.12.56:915][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_CoinMaterial_01a.SM_CoinMaterial_01a
+[2022.12.07-04.12.56:934][902]LogStaticMesh: Display: Building static mesh SM_CoinMaterial_01b...
+[2022.12.07-04.12.56:934][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_CoinMaterial_01b.SM_CoinMaterial_01b
+[2022.12.07-04.12.56:952][902]LogStaticMesh: Display: Building static mesh SM_CoinMaterial_01c...
+[2022.12.07-04.12.56:952][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_CoinMaterial_01c) ...
+[2022.12.07-04.12.56:970][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_CoinMaterial_01c.SM_CoinMaterial_01c
+[2022.12.07-04.12.56:989][902]LogStaticMesh: Display: Building static mesh SM_CoinMaterial_01d...
+[2022.12.07-04.12.56:989][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_CoinMaterial_01d) ...
+[2022.12.07-04.12.57:001][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_CoinMaterial_01d.SM_CoinMaterial_01d
+[2022.12.07-04.12.57:027][902]LogStaticMesh: Display: Building static mesh SM_Crown_01a...
+[2022.12.07-04.12.57:027][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Crown_01a) ...
+[2022.12.07-04.12.57:043][902]LogStaticMesh: Built static mesh [0.03s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Crown_01a.SM_Crown_01a
+[2022.12.07-04.12.57:067][902]LogStaticMesh: Display: Building static mesh SM_Dagger_01a...
+[2022.12.07-04.12.57:067][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Dagger_01a.SM_Dagger_01a
+[2022.12.07-04.12.57:081][902]LogStaticMesh: Display: Building static mesh SM_Dagger_01b...
+[2022.12.07-04.12.57:081][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Dagger_01b.SM_Dagger_01b
+[2022.12.07-04.12.57:093][902]LogStaticMesh: Display: Building static mesh SM_Dagger_01c...
+[2022.12.07-04.12.57:093][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Dagger_01c.SM_Dagger_01c
+[2022.12.07-04.12.57:111][902]LogStaticMesh: Display: Building static mesh SM_Gems_01a...
+[2022.12.07-04.12.57:111][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Gems_01a.SM_Gems_01a
+[2022.12.07-04.12.57:115][902]LogStaticMesh: Display: Building static mesh SM_Gems_01b...
+[2022.12.07-04.12.57:115][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Gems_01b.SM_Gems_01b
+[2022.12.07-04.12.57:129][902]LogStaticMesh: Display: Building static mesh SM_Gems_01c...
+[2022.12.07-04.12.57:129][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Gems_01c.SM_Gems_01c
+[2022.12.07-04.12.57:139][902]LogStaticMesh: Display: Building static mesh SM_Gems_01d...
+[2022.12.07-04.12.57:139][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Gems_01d.SM_Gems_01d
+[2022.12.07-04.12.57:154][902]LogStaticMesh: Display: Building static mesh SM_GoldBar_01a...
+[2022.12.07-04.12.57:154][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_GoldBar_01a.SM_GoldBar_01a
+[2022.12.07-04.12.57:180][902]LogStaticMesh: Display: Building static mesh SM_Helmet_01a...
+[2022.12.07-04.12.57:180][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Helmet_01a) ...
+[2022.12.07-04.12.57:202][902]LogStaticMesh: Built static mesh [0.03s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Helmet_01a.SM_Helmet_01a
+[2022.12.07-04.12.57:227][902]LogStaticMesh: Display: Building static mesh SM_Map_01a...
+[2022.12.07-04.12.57:227][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Map_01a) ...
+[2022.12.07-04.12.57:468][902]LogStaticMesh: Built static mesh [0.25s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Map_01a.SM_Map_01a
+[2022.12.07-04.12.57:493][902]LogStaticMesh: Display: Building static mesh SM_Necklace_01a...
+[2022.12.07-04.12.57:493][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Necklace_01a.SM_Necklace_01a
+[2022.12.07-04.12.57:493][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Necklace_01a) ...
+[2022.12.07-04.12.57:517][902]LogStaticMesh: Display: Building static mesh SM_Necklace_01b...
+[2022.12.07-04.12.57:517][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Necklace_01b.SM_Necklace_01b
+[2022.12.07-04.12.57:517][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Necklace_01b) ...
+[2022.12.07-04.12.57:553][902]LogStaticMesh: Display: Building static mesh SM_OrnateChest_01a...
+[2022.12.07-04.12.57:553][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_OrnateChest_01a) ...
+[2022.12.07-04.12.57:618][902]LogStaticMesh: Built static mesh [0.07s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_OrnateChest_01a.SM_OrnateChest_01a
+[2022.12.07-04.12.57:636][902]LogStaticMesh: Display: Building static mesh SM_OrnateChest_01b...
+[2022.12.07-04.12.57:636][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_OrnateChest_01b) ...
+[2022.12.07-04.12.57:699][902]LogStaticMesh: Built static mesh [0.07s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_OrnateChest_01b.SM_OrnateChest_01b
+[2022.12.07-04.12.57:718][902]LogStaticMesh: Display: Building static mesh SM_OrnateChest_01c...
+[2022.12.07-04.12.57:718][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_OrnateChest_01c) ...
+[2022.12.07-04.12.57:768][902]LogStaticMesh: Built static mesh [0.06s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_OrnateChest_01c.SM_OrnateChest_01c
+[2022.12.07-04.12.57:787][902]LogStaticMesh: Display: Building static mesh SM_OrnateChest_01d...
+[2022.12.07-04.12.57:787][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_OrnateChest_01d.SM_OrnateChest_01d
+[2022.12.07-04.12.57:787][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_OrnateChest_01d) ...
+[2022.12.07-04.12.57:823][902]LogStaticMesh: Display: Building static mesh SM_OrnateChest_02a...
+[2022.12.07-04.12.57:823][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_OrnateChest_02a) ...
+[2022.12.07-04.12.57:886][902]LogStaticMesh: Built static mesh [0.06s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_OrnateChest_02a.SM_OrnateChest_02a
+[2022.12.07-04.12.57:905][902]LogStaticMesh: Display: Building static mesh SM_OrnateChest_02b...
+[2022.12.07-04.12.57:905][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_OrnateChest_02b) ...
+[2022.12.07-04.12.57:971][902]LogStaticMesh: Built static mesh [0.07s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_OrnateChest_02b.SM_OrnateChest_02b
+[2022.12.07-04.12.57:990][902]LogStaticMesh: Display: Building static mesh SM_OrnateChest_02c...
+[2022.12.07-04.12.57:990][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_OrnateChest_02c) ...
+[2022.12.07-04.12.58:040][902]LogStaticMesh: Built static mesh [0.06s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_OrnateChest_02c.SM_OrnateChest_02c
+[2022.12.07-04.12.58:058][902]LogStaticMesh: Display: Building static mesh SM_OrnateChest_02d...
+[2022.12.07-04.12.58:058][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_OrnateChest_02d) ...
+[2022.12.07-04.12.58:064][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_OrnateChest_02d.SM_OrnateChest_02d
+[2022.12.07-04.12.58:091][902]LogStaticMesh: Display: Building static mesh SM_Pearls_01a...
+[2022.12.07-04.12.58:091][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Pearls_01a) ...
+[2022.12.07-04.12.58:116][902]LogStaticMesh: Built static mesh [0.03s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Pearls_01a.SM_Pearls_01a
+[2022.12.07-04.12.58:134][902]LogStaticMesh: Display: Building static mesh SM_Pearls_01b...
+[2022.12.07-04.12.58:134][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Pearls_01b) ...
+[2022.12.07-04.12.58:181][902]LogStaticMesh: Built static mesh [0.05s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Pearls_01b.SM_Pearls_01b
+[2022.12.07-04.12.58:199][902]LogStaticMesh: Display: Building static mesh SM_Pearls_01c...
+[2022.12.07-04.12.58:199][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Pearls_01c) ...
+[2022.12.07-04.12.58:223][902]LogStaticMesh: Built static mesh [0.03s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Pearls_01c.SM_Pearls_01c
+[2022.12.07-04.12.58:244][902]LogStaticMesh: Display: Building static mesh SM_Ring_01a...
+[2022.12.07-04.12.58:244][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Ring_01a.SM_Ring_01a
+[2022.12.07-04.12.58:274][902]LogStaticMesh: Display: Building static mesh SM_Shield_01a...
+[2022.12.07-04.12.58:274][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Shield_01a) ...
+[2022.12.07-04.12.58:343][902]LogStaticMesh: Built static mesh [0.08s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Shield_01a.SM_Shield_01a
+[2022.12.07-04.12.58:374][902]LogStaticMesh: Display: Building static mesh SM_Statue_01a...
+[2022.12.07-04.12.58:374][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Statue_01a) ...
+[2022.12.07-04.12.58:385][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Statue_01a.SM_Statue_01a
+[2022.12.07-04.12.58:412][902]LogStaticMesh: Display: Building static mesh SM_Sword_01a...
+[2022.12.07-04.12.58:412][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Sword_01a.SM_Sword_01a
+[2022.12.07-04.12.58:441][902]LogStaticMesh: Display: Building static mesh SM_Urn_01a...
+[2022.12.07-04.12.58:441][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Urn_01a) ...
+[2022.12.07-04.12.58:496][902]LogStaticMesh: Built static mesh [0.06s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Urn_01a.SM_Urn_01a
+[2022.12.07-04.12.58:523][902]LogStaticMesh: Display: Building static mesh SM_Urn_02...
+[2022.12.07-04.12.58:523][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Urn_02) ...
+[2022.12.07-04.12.58:544][902]LogStaticMesh: Built static mesh [0.03s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Urn_02.SM_Urn_02
+[2022.12.07-04.12.58:576][902]LogStaticMesh: Display: Building static mesh SM_Urn_04a...
+[2022.12.07-04.12.58:576][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Urn_04a) ...
+[2022.12.07-04.12.58:589][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Urn_04a.SM_Urn_04a
+[2022.12.07-04.12.58:614][902]LogStaticMesh: Display: Building static mesh SM_WaterPot_01a...
+[2022.12.07-04.12.58:614][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_WaterPot_01a) ...
+[2022.12.07-04.12.58:743][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_WaterPot_01a.SM_WaterPot_01a
+[2022.12.07-04.12.58:800][902]LogMaterial: Display: Missing cached shadermap for MM_Floor_01a in PCD3D_SM5, Default, SM5 (DDC key hash: 71D1718C8CC6BA4DF27100A8298CF8A62147A4F3), compiling. 
+[2022.12.07-04.12.58:801][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\AncientTreasures\Materials\Masters\MM_Floor_01a.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node MakeMaterialAttributes) Error on property BaseColor
+	(Node TextureSampleParameter2D) R = Roughness | G = Metalness | B = Ambient Occlusion | A = Other > Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2022.12.07-04.12.58:808][902]LogMaterial: Display: Missing cached shadermap for MM_Floor_01a in PCD3D_SM5, Default, SM5 (DDC key hash: 71D1718C8CC6BA4DF27100A8298CF8A62147A4F3), compiling. 
+[2022.12.07-04.12.58:809][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\AncientTreasures\Materials\Masters\MM_Floor_01a.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node MakeMaterialAttributes) Error on property BaseColor
+	(Node TextureSampleParameter2D) R = Roughness | G = Metalness | B = Ambient Occlusion | A = Other > Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2022.12.07-04.12.58:816][902]LogMaterial: Display: Missing cached shadermap for MM_Floor_01a in PCD3D_SM5, Default, SM5 (DDC key hash: 71D1718C8CC6BA4DF27100A8298CF8A62147A4F3), compiling. 
+[2022.12.07-04.12.58:817][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\AncientTreasures\Materials\Masters\MM_Floor_01a.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node MakeMaterialAttributes) Error on property BaseColor
+	(Node TextureSampleParameter2D) R = Roughness | G = Metalness | B = Ambient Occlusion | A = Other > Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2022.12.07-04.12.58:824][902]LogMaterial: Display: Missing cached shadermap for MM_Floor_01a in PCD3D_SM5, Default, SM5 (DDC key hash: 71D1718C8CC6BA4DF27100A8298CF8A62147A4F3), compiling. 
+[2022.12.07-04.12.58:825][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\AncientTreasures\Materials\Masters\MM_Floor_01a.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node MakeMaterialAttributes) Error on property BaseColor
+	(Node TextureSampleParameter2D) R = Roughness | G = Metalness | B = Ambient Occlusion | A = Other > Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2022.12.07-04.12.58:832][902]LogMaterial: Display: Missing cached shadermap for MM_Floor_01a in PCD3D_SM5, Default, SM5 (DDC key hash: 71D1718C8CC6BA4DF27100A8298CF8A62147A4F3), compiling. 
+[2022.12.07-04.12.58:833][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\AncientTreasures\Materials\Masters\MM_Floor_01a.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node MakeMaterialAttributes) Error on property BaseColor
+	(Node TextureSampleParameter2D) R = Roughness | G = Metalness | B = Ambient Occlusion | A = Other > Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2022.12.07-04.12.58:841][902]LogMaterial: Display: Missing cached shadermap for MM_Floor_01a in PCD3D_SM5, Default, SM5 (DDC key hash: 71D1718C8CC6BA4DF27100A8298CF8A62147A4F3), compiling. 
+[2022.12.07-04.12.58:841][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\AncientTreasures\Materials\Masters\MM_Floor_01a.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node MakeMaterialAttributes) Error on property BaseColor
+	(Node TextureSampleParameter2D) R = Roughness | G = Metalness | B = Ambient Occlusion | A = Other > Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2022.12.07-04.12.58:848][902]LogMaterial: Display: Missing cached shadermap for MM_Floor_01a in PCD3D_SM5, Default, SM5 (DDC key hash: 71D1718C8CC6BA4DF27100A8298CF8A62147A4F3), compiling. 
+[2022.12.07-04.12.58:850][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\AncientTreasures\Materials\Masters\MM_Floor_01a.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node MakeMaterialAttributes) Error on property BaseColor
+	(Node TextureSampleParameter2D) R = Roughness | G = Metalness | B = Ambient Occlusion | A = Other > Found NULL, requires Texture2D
+	(Node MakeMaterialAttributes) Error on property Specular
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2022.12.07-04.12.58:864][902]LogStaticMesh: Display: Building static mesh SM_ChestCoins_01a...
+[2022.12.07-04.12.58:864][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_ChestCoins_01a.SM_ChestCoins_01a
+[2022.12.07-04.12.58:904][902]LogStaticMesh: Display: Building static mesh SM_Statue_02a...
+[2022.12.07-04.12.58:904][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Statue_02a) ...
+[2022.12.07-04.12.58:923][902]LogStaticMesh: Built static mesh [0.03s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_Statue_02a.SM_Statue_02a
+[2022.12.07-04.12.58:944][902]LogStaticMesh: Display: Building static mesh SM_ZBackdrop_01a...
+[2022.12.07-04.12.58:944][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/AncientTreasures/Meshes/SM_ZBackdrop_01a.SM_ZBackdrop_01a
+[2022.12.07-04.12.59:425][902]LogMaterial: Display: Missing cached shadermap for M_Master in PCD3D_SM5, Default, SM5 (DDC key hash: D4F5EA6DD49C82838CD88360F9AAF1088B438182), compiling. 
+[2022.12.07-04.12.59:426][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\MedievalDungeon\Materials\M_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2022.12.07-04.12.59:463][902]LogStaticMesh: Display: Building static mesh SM_Torch...
+[2022.12.07-04.12.59:463][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Torch) ...
+[2022.12.07-04.12.59:505][902]LogStaticMesh: Built static mesh [0.04s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Torch.SM_Torch
+[2022.12.07-04.12.59:531][902]LogMaterial: Display: Missing cached shadermap for M_Fire_SubUV in PCD3D_SM5, Default, SM5 (DDC key hash: 6D6CABC09A5A3D4B1737C035DF61ACE058795E5E), compiling. 
+[2022.12.07-04.12.59:532][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\MedievalDungeon\Particles\Materials\M_Fire_SubUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2022.12.07-04.12.59:551][902]LogMaterial: Display: Missing cached shadermap for M_Heat_Distortion in PCD3D_SM5, Default, SM5 (DDC key hash: E79EAB06DBBFA89815D8BE6B41E8A9378EDF84EE), compiling. 
+[2022.12.07-04.12.59:552][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\MedievalDungeon\Particles\Materials\M_Heat_Distortion.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.07-04.12.59:572][902]LogMaterial: Display: Missing cached shadermap for M_smoke_subUV in PCD3D_SM5, Default, SM5 (DDC key hash: 672C026FF7DF1DFE1D37EF198F758D9A922DF9F1), compiling. 
+[2022.12.07-04.12.59:573][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\MedievalDungeon\Particles\Materials\M_smoke_subUV.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node ParticleSubUV) Missing ParticleSubUV input texture
+
+[2022.12.07-04.12.59:681][902]LogStaticMesh: Display: Building static mesh SM_Gibbet_Cage...
+[2022.12.07-04.12.59:681][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage) ...
+[2022.12.07-04.12.59:727][902]LogStaticMesh: Built static mesh [0.05s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage.SM_Gibbet_Cage
+[2022.12.07-04.12.59:745][902]LogStaticMesh: Display: Building static mesh SM_Gibbet_Cage_Wall_Mount...
+[2022.12.07-04.12.59:745][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage_Wall_Mount.SM_Gibbet_Cage_Wall_Mount
+[2022.12.07-04.12.59:803][902]LogMaterial: Display: Missing cached shadermap for M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: ED22EAE3B4BCA7C858FAED02B89461A56063591C), compiling. 
+[2022.12.07-04.12.59:804][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\MedievalDungeon\Materials\M_Tiling_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+
+[2022.12.07-04.12.59:812][902]LogMaterial: Display: Missing cached shadermap for M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: ED22EAE3B4BCA7C858FAED02B89461A56063591C), compiling. 
+[2022.12.07-04.12.59:813][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\MedievalDungeon\Materials\M_Tiling_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+
+[2022.12.07-04.12.59:821][902]LogMaterial: Display: Missing cached shadermap for M_Tiling_Master in PCD3D_SM5, Default, SM5 (DDC key hash: ED22EAE3B4BCA7C858FAED02B89461A56063591C), compiling. 
+[2022.12.07-04.12.59:822][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\MedievalDungeon\Materials\M_Tiling_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+	(Node TextureObjectParameter) Param Tex Object> Requires valid texture
+
+[2022.12.07-04.12.59:853][902]LogStaticMesh: Display: Building static mesh SM_DoorWay...
+[2022.12.07-04.12.59:853][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_DoorWay) ...
+[2022.12.07-04.13.00:505][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_DoorWay.SM_DoorWay
+[2022.12.07-04.13.01:850][902]LogStaticMesh: Display: Building static mesh SM_DoorWay_Large_Door_Left...
+[2022.12.07-04.13.01:850][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_DoorWay_Large_Door_Left) ...
+[2022.12.07-04.13.01:891][902]LogStaticMesh: Built static mesh [0.04s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_DoorWay_Large_Door_Left.SM_DoorWay_Large_Door_Left
+[2022.12.07-04.13.01:891][902]LogStaticMesh: Warning: SM_DoorWay_Large_Door_Left has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.12.07-04.13.01:891][902]LogStaticMesh: Warning: SM_DoorWay_Large_Door_Left has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.12.07-04.13.01:921][902]LogStaticMesh: Display: Building static mesh SM_DoorWay_Large_Door_Right...
+[2022.12.07-04.13.01:921][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_DoorWay_Large_Door_Right) ...
+[2022.12.07-04.13.01:969][902]LogStaticMesh: Built static mesh [0.05s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_DoorWay_Large_Door_Right.SM_DoorWay_Large_Door_Right
+[2022.12.07-04.13.01:970][902]LogStaticMesh: Warning: SM_DoorWay_Large_Door_Right has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.12.07-04.13.01:970][902]LogStaticMesh: Warning: SM_DoorWay_Large_Door_Right has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.12.07-04.13.02:019][902]LogStaticMesh: Display: Building static mesh SM_Crypt_Doorway...
+[2022.12.07-04.13.02:019][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Doorway) ...
+[2022.12.07-04.13.02:047][902]LogStaticMesh: Built static mesh [0.04s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Doorway.SM_Crypt_Doorway
+[2022.12.07-04.13.02:128][902]LogMaterial: Display: Missing cached shadermap for M_Candles_Master in PCD3D_SM5, Default, SM5 (DDC key hash: F3F4573B5795650E31B6284A4EAF6A1E1C0AB7A9), compiling. 
+[2022.12.07-04.13.02:129][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\MedievalDungeon\Materials\M_Candles_Master.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+
+[2022.12.07-04.13.02:166][902]LogStaticMesh: Display: Building static mesh SM_Candle_Used_A...
+[2022.12.07-04.13.02:167][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Candle_Used_A.SM_Candle_Used_A
+[2022.12.07-04.13.02:192][902]LogStaticMesh: Display: Building static mesh SM_Candle_Used_B...
+[2022.12.07-04.13.02:192][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Candle_Used_B.SM_Candle_Used_B
+[2022.12.07-04.13.02:208][902]LogStaticMesh: Display: Building static mesh SM_Candle_Used_C...
+[2022.12.07-04.13.02:208][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Candle_Used_C.SM_Candle_Used_C
+[2022.12.07-04.13.02:279][902]LogStaticMesh: Display: Building static mesh SM_Chandelier...
+[2022.12.07-04.13.02:279][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Chandelier) ...
+[2022.12.07-04.13.02:745][902]LogStaticMesh: Built static mesh [0.44s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Chandelier.SM_Chandelier
+[2022.12.07-04.13.02:763][902]LogMaterial: Display: Missing cached shadermap for M_CandleFlame in PCD3D_SM5, Default, SM5 (DDC key hash: 770064C706E5F86FC49342F1518A072F78356EFC), compiling. 
+[2022.12.07-04.13.02:763][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\MedievalDungeon\Particles\Materials\M_CandleFlame.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.07-04.13.02:816][902]LogStaticMesh: Display: Building static mesh SM_Cell_Door...
+[2022.12.07-04.13.02:816][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Door.SM_Cell_Door
+[2022.12.07-04.13.02:816][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Door) ...
+[2022.12.07-04.13.02:841][902]LogStaticMesh: Display: Building static mesh SM_Cell_Front...
+[2022.12.07-04.13.02:841][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Front) ...
+[2022.12.07-04.13.02:873][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Front.SM_Cell_Front
+[2022.12.07-04.13.02:911][902]LogStaticMesh: Display: Building static mesh SM_Candle_Holder...
+[2022.12.07-04.13.02:911][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Candle_Holder) ...
+[2022.12.07-04.13.03:088][902]LogStaticMesh: Built static mesh [0.15s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Candle_Holder.SM_Candle_Holder
+[2022.12.07-04.13.03:098][902]LogStaticMesh: Display: Building static mesh SM_Candle...
+[2022.12.07-04.13.03:098][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Candle.SM_Candle
+[2022.12.07-04.13.03:146][902]LogStaticMesh: Display: Building static mesh SM_CandleStick_Iron...
+[2022.12.07-04.13.03:146][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_CandleStick_Iron) ...
+[2022.12.07-04.13.03:170][902]LogStaticMesh: Built static mesh [0.03s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_CandleStick_Iron.SM_CandleStick_Iron
+[2022.12.07-04.13.03:217][902]LogStaticMesh: Display: Building static mesh SM_CandleHolder_Iron...
+[2022.12.07-04.13.03:217][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_CandleHolder_Iron.SM_CandleHolder_Iron
+[2022.12.07-04.13.03:268][902]LogStaticMesh: Display: Building static mesh SM_CandleHolder_Bronze...
+[2022.12.07-04.13.03:268][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_CandleHolder_Bronze.SM_CandleHolder_Bronze
+[2022.12.07-04.13.03:313][902]LogStaticMesh: Display: Building static mesh SM_Crypt_Ceiling...
+[2022.12.07-04.13.03:313][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling.SM_Crypt_Ceiling
+[2022.12.07-04.13.03:330][902]LogStaticMesh: Display: Building static mesh SM_Crypt_Ceiling_Arch_A...
+[2022.12.07-04.13.03:330][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Arch_A.SM_Crypt_Ceiling_Arch_A
+[2022.12.07-04.13.03:337][902]LogStaticMesh: Display: Building static mesh SM_Crypt_Floor...
+[2022.12.07-04.13.03:337][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Floor.SM_Crypt_Floor
+[2022.12.07-04.13.03:344][902]LogStaticMesh: Display: Building static mesh SM_Crypt_Floor_Concave...
+[2022.12.07-04.13.03:344][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Floor_Concave.SM_Crypt_Floor_Concave
+[2022.12.07-04.13.03:353][902]LogStaticMesh: Display: Building static mesh SM_Crypt_Floor_Concave_End_A...
+[2022.12.07-04.13.03:353][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Floor_Concave_End_A.SM_Crypt_Floor_Concave_End_A
+[2022.12.07-04.13.03:360][902]LogStaticMesh: Display: Building static mesh SM_Crypt_Floor_Concave_End_B...
+[2022.12.07-04.13.03:360][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Floor_Concave_End_B.SM_Crypt_Floor_Concave_End_B
+[2022.12.07-04.13.03:386][902]LogStaticMesh: Display: Building static mesh SM_Crypt_Pillar...
+[2022.12.07-04.13.03:386][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Pillar) ...
+[2022.12.07-04.13.03:391][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Pillar.SM_Crypt_Pillar
+[2022.12.07-04.13.03:391][902]LogStaticMesh: Warning: SM_Crypt_Pillar has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.12.07-04.13.03:391][902]LogStaticMesh: Warning: SM_Crypt_Pillar has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.12.07-04.13.03:407][902]LogStaticMesh: Display: Building static mesh SM_Crypt_Wall...
+[2022.12.07-04.13.03:407][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall.SM_Crypt_Wall
+[2022.12.07-04.13.03:422][902]LogStaticMesh: Display: Building static mesh SM_Crypt_Wall_Decorative_A...
+[2022.12.07-04.13.03:422][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Decorative_A.SM_Crypt_Wall_Decorative_A
+[2022.12.07-04.13.03:463][902]LogStaticMesh: Display: Building static mesh SM_Crypt_Wall_Decorative_B...
+[2022.12.07-04.13.03:463][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Decorative_B) ...
+[2022.12.07-04.13.03:475][902]LogStaticMesh: Built static mesh [0.03s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Decorative_B.SM_Crypt_Wall_Decorative_B
+[2022.12.07-04.13.03:476][902]LogStaticMesh: Warning: SM_Crypt_Wall_Decorative_B has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.12.07-04.13.03:476][902]LogStaticMesh: Warning: SM_Crypt_Wall_Decorative_B has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.12.07-04.13.03:506][902]LogStaticMesh: Display: Building static mesh SM_Crypt_Wall_Decorative_C...
+[2022.12.07-04.13.03:507][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Decorative_C.SM_Crypt_Wall_Decorative_C
+[2022.12.07-04.13.03:530][902]LogStaticMesh: Display: Building static mesh SM_Crypt_Wall_Decorative_D...
+[2022.12.07-04.13.03:530][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Decorative_D.SM_Crypt_Wall_Decorative_D
+[2022.12.07-04.13.03:545][902]LogStaticMesh: Display: Building static mesh SM_Crypt_Wall_Floor_Trim...
+[2022.12.07-04.13.03:545][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Floor_Trim.SM_Crypt_Wall_Floor_Trim
+[2022.12.07-04.13.03:565][902]LogStaticMesh: Display: Building static mesh SM_Crypt_Wall_Stop_Gap...
+[2022.12.07-04.13.03:565][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Stop_Gap.SM_Crypt_Wall_Stop_Gap
+[2022.12.07-04.13.03:598][902]LogStaticMesh: Display: Building static mesh SM_Mausoleum...
+[2022.12.07-04.13.03:598][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum) ...
+[2022.12.07-04.13.03:634][902]LogStaticMesh: Built static mesh [0.04s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum.SM_Mausoleum
+[2022.12.07-04.13.03:686][902]LogStaticMesh: Display: Building static mesh SM_Mausoleum_Ceiling...
+[2022.12.07-04.13.03:686][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum_Ceiling) ...
+[2022.12.07-04.13.03:693][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum_Ceiling.SM_Mausoleum_Ceiling
+[2022.12.07-04.13.03:701][902]LogStaticMesh: Display: Building static mesh SM_Mausoleum_Lid_A...
+[2022.12.07-04.13.03:701][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum_Lid_A.SM_Mausoleum_Lid_A
+[2022.12.07-04.13.03:720][902]LogStaticMesh: Display: Building static mesh SM_Mausoleum_Lid_B...
+[2022.12.07-04.13.03:720][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum_Lid_B.SM_Mausoleum_Lid_B
+[2022.12.07-04.13.03:720][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum_Lid_B) ...
+[2022.12.07-04.13.03:735][902]LogStaticMesh: Display: Building static mesh SM_Mausoleum_Lid_C...
+[2022.12.07-04.13.03:735][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum_Lid_C.SM_Mausoleum_Lid_C
+[2022.12.07-04.13.03:745][902]LogStaticMesh: Display: Building static mesh SM_Ceiling...
+[2022.12.07-04.13.03:745][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling.SM_Ceiling
+[2022.12.07-04.13.03:756][902]LogStaticMesh: Display: Building static mesh SM_Ceiling_Arch_A...
+[2022.12.07-04.13.03:756][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Arch_A.SM_Ceiling_Arch_A
+[2022.12.07-04.13.03:763][902]LogStaticMesh: Display: Building static mesh SM_Ceiling_Flat...
+[2022.12.07-04.13.03:763][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat
+[2022.12.07-04.13.03:773][902]LogStaticMesh: Display: Building static mesh SM_Ceiling_Half...
+[2022.12.07-04.13.03:773][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Half.SM_Ceiling_Half
+[2022.12.07-04.13.03:781][902]LogStaticMesh: Display: Building static mesh SM_Ceiling_Piece...
+[2022.12.07-04.13.03:781][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Piece.SM_Ceiling_Piece
+[2022.12.07-04.13.03:790][902]LogStaticMesh: Display: Building static mesh SM_Ceiling_Piece_B...
+[2022.12.07-04.13.03:790][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Piece_B.SM_Ceiling_Piece_B
+[2022.12.07-04.13.03:799][902]LogStaticMesh: Display: Building static mesh SM_Ceiling_Third...
+[2022.12.07-04.13.03:799][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Third.SM_Ceiling_Third
+[2022.12.07-04.13.03:823][902]LogStaticMesh: Display: Building static mesh SM_Cell_Side...
+[2022.12.07-04.13.03:823][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Side) ...
+[2022.12.07-04.13.03:841][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Side.SM_Cell_Side
+[2022.12.07-04.13.03:866][902]LogStaticMesh: Display: Building static mesh SM_Decorative_Arches...
+[2022.12.07-04.13.03:866][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Decorative_Arches.SM_Decorative_Arches
+[2022.12.07-04.13.03:866][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Decorative_Arches) ...
+[2022.12.07-04.13.03:882][902]LogStaticMesh: Display: Building static mesh SM_Dungeon_Wall...
+[2022.12.07-04.13.03:882][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Dungeon_Wall.SM_Dungeon_Wall
+[2022.12.07-04.13.03:900][902]LogStaticMesh: Display: Building static mesh SM_Dungeon_Wall_Decorative_A...
+[2022.12.07-04.13.03:900][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Dungeon_Wall_Decorative_A.SM_Dungeon_Wall_Decorative_A
+[2022.12.07-04.13.03:916][902]LogStaticMesh: Display: Building static mesh SM_Dungeon_Wall_Decorative_D...
+[2022.12.07-04.13.03:916][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Dungeon_Wall_Decorative_D.SM_Dungeon_Wall_Decorative_D
+[2022.12.07-04.13.03:947][902]LogStaticMesh: Display: Building static mesh SM_Edge_Stones...
+[2022.12.07-04.13.03:947][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones) ...
+[2022.12.07-04.13.03:979][902]LogStaticMesh: Built static mesh [0.04s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2022.12.07-04.13.03:979][902]LogStaticMesh: Warning: SM_Edge_Stones has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.12.07-04.13.03:979][902]LogStaticMesh: Warning: SM_Edge_Stones has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.12.07-04.13.04:024][902]LogStaticMesh: Display: Building static mesh SM_Fire_Pit...
+[2022.12.07-04.13.04:024][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Fire_Pit) ...
+[2022.12.07-04.13.04:195][902]LogStaticMesh: Built static mesh [0.16s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Fire_Pit.SM_Fire_Pit
+[2022.12.07-04.13.04:195][902]LogStaticMesh: Warning: SM_Fire_Pit has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.12.07-04.13.04:195][902]LogStaticMesh: Warning: SM_Fire_Pit has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.12.07-04.13.04:214][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Fire_Pit) ...
+[2022.12.07-04.13.04:238][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Fire_Pit) ...
+[2022.12.07-04.13.04:263][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Fire_Pit) ...
+[2022.12.07-04.13.04:299][902]LogStaticMesh: Display: Building static mesh SM_Floor...
+[2022.12.07-04.13.04:299][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.SM_Floor
+[2022.12.07-04.13.04:318][902]LogStaticMesh: Display: Building static mesh SM_Half_Arch...
+[2022.12.07-04.13.04:318][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Half_Arch) ...
+[2022.12.07-04.13.04:403][902]LogStaticMesh: Built static mesh [0.09s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Half_Arch.SM_Half_Arch
+[2022.12.07-04.13.04:403][902]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-68.500 Y=0.000 Z=301.288, BoxExtent=(X=124.377 Y=55.510 Z=301.449), SphereRadius=(325.239716)) and MeshDescription Bounds (Origin=X=-91.334 Y=0.000 Z=301.288, BoxExtent=(X=165.836 Y=74.014 Z=301.449), SphereRadius=(343.537688)) is significative for StaticMesh /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Half_Arch.SM_Half_Arch
+[2022.12.07-04.13.04:427][902]LogStaticMesh: Display: Building static mesh SM_Large_Window_Half...
+[2022.12.07-04.13.04:427][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Large_Window_Half) ...
+[2022.12.07-04.13.04:432][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Large_Window_Half.SM_Large_Window_Half
+[2022.12.07-04.13.04:460][902]LogStaticMesh: Display: Building static mesh SM_Pillar...
+[2022.12.07-04.13.04:460][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Pillar) ...
+[2022.12.07-04.13.04:474][902]LogStaticMesh: Built static mesh [0.03s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Pillar.SM_Pillar
+[2022.12.07-04.13.04:474][902]LogStaticMesh: Warning: SM_Pillar has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2022.12.07-04.13.04:474][902]LogStaticMesh: Warning: SM_Pillar has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.12.07-04.13.04:518][902]LogStaticMesh: Display: Building static mesh SM_Small_Window_Half...
+[2022.12.07-04.13.04:518][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Small_Window_Half.SM_Small_Window_Half
+[2022.12.07-04.13.04:541][902]LogStaticMesh: Display: Building static mesh SM_Stairs_10...
+[2022.12.07-04.13.04:541][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Stairs_10.SM_Stairs_10
+[2022.12.07-04.13.04:557][902]LogStaticMesh: Display: Building static mesh SM_Stairs_5...
+[2022.12.07-04.13.04:557][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Stairs_5.SM_Stairs_5
+[2022.12.07-04.13.04:564][902]LogStaticMesh: Display: Building static mesh SM_Wall_Floor_Trim...
+[2022.12.07-04.13.04:564][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Wall_Floor_Trim.SM_Wall_Floor_Trim
+[2022.12.07-04.13.04:572][902]LogStaticMesh: Display: Building static mesh Wall_Short...
+[2022.12.07-04.13.04:572][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/Wall_Short.Wall_Short
+[2022.12.07-04.13.04:589][902]LogStaticMesh: Display: Building static mesh SM_Alter...
+[2022.12.07-04.13.04:589][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Alter.SM_Alter
+[2022.12.07-04.13.04:626][902]LogStaticMesh: Display: Building static mesh SM_Ball_And_Chain...
+[2022.12.07-04.13.04:626][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Ball_And_Chain) ...
+[2022.12.07-04.13.04:790][902]LogStaticMesh: Built static mesh [0.15s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Ball_And_Chain.SM_Ball_And_Chain
+[2022.12.07-04.13.04:814][902]LogStaticMesh: Display: Building static mesh SM_Bed...
+[2022.12.07-04.13.04:814][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Bed) ...
+[2022.12.07-04.13.04:824][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Bed.SM_Bed
+[2022.12.07-04.13.04:885][902]LogStaticMesh: Display: Building static mesh SM_Coffin...
+[2022.12.07-04.13.04:885][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Coffin.SM_Coffin
+[2022.12.07-04.13.04:905][902]LogStaticMesh: Display: Building static mesh SM_Decor_Chains_A...
+[2022.12.07-04.13.04:905][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Decor_Chains_A) ...
+[2022.12.07-04.13.05:389][902]LogStaticMesh: Built static mesh [0.44s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Decor_Chains_A.SM_Decor_Chains_A
+[2022.12.07-04.13.05:431][902]LogStaticMesh: Display: Building static mesh SM_Decor_Chains_B...
+[2022.12.07-04.13.05:431][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Decor_Chains_B) ...
+[2022.12.07-04.13.05:515][902]LogStaticMesh: Built static mesh [0.08s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Decor_Chains_B.SM_Decor_Chains_B
+[2022.12.07-04.13.05:533][902]LogStaticMesh: Display: Building static mesh SM_Decor_Ring...
+[2022.12.07-04.13.05:533][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Decor_Ring.SM_Decor_Ring
+[2022.12.07-04.13.05:533][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Decor_Ring) ...
+[2022.12.07-04.13.05:553][902]LogStaticMesh: Display: Building static mesh SM_Dirt_Mound_A...
+[2022.12.07-04.13.05:553][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_A.SM_Dirt_Mound_A
+[2022.12.07-04.13.05:562][902]LogStaticMesh: Display: Building static mesh SM_Dirt_Mound_B...
+[2022.12.07-04.13.05:562][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_B.SM_Dirt_Mound_B
+[2022.12.07-04.13.05:572][902]LogStaticMesh: Display: Building static mesh SM_Dirt_Mound_C...
+[2022.12.07-04.13.05:572][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_C.SM_Dirt_Mound_C
+[2022.12.07-04.13.05:581][902]LogStaticMesh: Display: Building static mesh SM_Dirt_Mound_D...
+[2022.12.07-04.13.05:581][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_D.SM_Dirt_Mound_D
+[2022.12.07-04.13.05:634][902]LogStaticMesh: Display: Building static mesh SM_Gargoyle_Statue_On_Stand...
+[2022.12.07-04.13.05:634][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand) ...
+[2022.12.07-04.13.05:752][902]LogStaticMesh: Built static mesh [0.12s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand.SM_Gargoyle_Statue_On_Stand
+[2022.12.07-04.13.05:795][902]LogStaticMesh: Display: Building static mesh SM_Gibbet_Cage_Open...
+[2022.12.07-04.13.05:795][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage_Open) ...
+[2022.12.07-04.13.05:846][902]LogStaticMesh: Built static mesh [0.06s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage_Open.SM_Gibbet_Cage_Open
+[2022.12.07-04.13.05:866][902]LogStaticMesh: Display: Building static mesh SM_Handcuff...
+[2022.12.07-04.13.05:866][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Handcuff.SM_Handcuff
+[2022.12.07-04.13.05:884][902]LogStaticMesh: Display: Building static mesh SM_Lock_Closed...
+[2022.12.07-04.13.05:884][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Lock_Closed.SM_Lock_Closed
+[2022.12.07-04.13.05:884][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Lock_Closed) ...
+[2022.12.07-04.13.05:886][902]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.000 Y=0.209 Z=0.000, BoxExtent=(X=4.920 Y=7.617 Z=0.998), SphereRadius=(7.669862)) and MeshDescription Bounds (Origin=X=0.000 Y=0.419 Z=0.000, BoxExtent=(X=9.841 Y=15.234 Z=1.995), SphereRadius=(15.339723)) is significative for StaticMesh /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Lock_Closed.SM_Lock_Closed
+[2022.12.07-04.13.05:902][902]LogStaticMesh: Display: Building static mesh SM_Lock_Key...
+[2022.12.07-04.13.05:902][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Lock_Key.SM_Lock_Key
+[2022.12.07-04.13.05:902][902]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-0.854 Y=0.000 Z=0.000, BoxExtent=(X=1.603 Y=3.628 Z=0.488), SphereRadius=(3.967560)) and MeshDescription Bounds (Origin=X=-1.708 Y=0.000 Z=0.000, BoxExtent=(X=3.206 Y=7.257 Z=0.975), SphereRadius=(7.935121)) is significative for StaticMesh /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Lock_Key.SM_Lock_Key
+[2022.12.07-04.13.05:925][902]LogStaticMesh: Display: Building static mesh SM_Lock_Open...
+[2022.12.07-04.13.05:925][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Lock_Open.SM_Lock_Open
+[2022.12.07-04.13.05:925][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Lock_Open) ...
+[2022.12.07-04.13.05:925][902]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.095 Y=-1.050 Z=0.000, BoxExtent=(X=5.015 Y=8.876 Z=0.998), SphereRadius=(9.028996)) and MeshDescription Bounds (Origin=X=0.190 Y=-2.099 Z=0.000, BoxExtent=(X=10.030 Y=17.752 Z=1.995), SphereRadius=(18.057991)) is significative for StaticMesh /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Lock_Open.SM_Lock_Open
+[2022.12.07-04.13.05:956][902]LogStaticMesh: Display: Building static mesh SM_Pot_A_Body...
+[2022.12.07-04.13.05:956][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Pot_A_Body) ...
+[2022.12.07-04.13.05:992][902]LogStaticMesh: Built static mesh [0.04s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Pot_A_Body.SM_Pot_A_Body
+[2022.12.07-04.13.06:010][902]LogStaticMesh: Display: Building static mesh SM_Pot_A_Complete...
+[2022.12.07-04.13.06:010][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Pot_A_Complete) ...
+[2022.12.07-04.13.06:073][902]LogStaticMesh: Built static mesh [0.07s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Pot_A_Complete.SM_Pot_A_Complete
+[2022.12.07-04.13.06:091][902]LogStaticMesh: Display: Building static mesh SM_Pot_A_Lid...
+[2022.12.07-04.13.06:091][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Pot_A_Lid) ...
+[2022.12.07-04.13.06:108][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Pot_A_Lid.SM_Pot_A_Lid
+[2022.12.07-04.13.06:126][902]LogStaticMesh: Display: Building static mesh SM_Pot_B_Body...
+[2022.12.07-04.13.06:126][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Pot_B_Body) ...
+[2022.12.07-04.13.06:159][902]LogStaticMesh: Built static mesh [0.03s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Pot_B_Body.SM_Pot_B_Body
+[2022.12.07-04.13.06:177][902]LogStaticMesh: Display: Building static mesh SM_Pot_B_Complete...
+[2022.12.07-04.13.06:177][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Pot_B_Complete) ...
+[2022.12.07-04.13.06:232][902]LogStaticMesh: Built static mesh [0.06s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Pot_B_Complete.SM_Pot_B_Complete
+[2022.12.07-04.13.06:250][902]LogStaticMesh: Display: Building static mesh SM_Pot_B_Lid...
+[2022.12.07-04.13.06:250][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Pot_B_Lid) ...
+[2022.12.07-04.13.06:266][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Pot_B_Lid.SM_Pot_B_Lid
+[2022.12.07-04.13.06:285][902]LogStaticMesh: Display: Building static mesh SM_Pot_C_Body...
+[2022.12.07-04.13.06:285][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Pot_C_Body) ...
+[2022.12.07-04.13.06:319][902]LogStaticMesh: Built static mesh [0.04s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Pot_C_Body.SM_Pot_C_Body
+[2022.12.07-04.13.06:338][902]LogStaticMesh: Display: Building static mesh SM_Pot_C_Complete...
+[2022.12.07-04.13.06:338][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Pot_C_Complete) ...
+[2022.12.07-04.13.06:393][902]LogStaticMesh: Built static mesh [0.06s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Pot_C_Complete.SM_Pot_C_Complete
+[2022.12.07-04.13.06:411][902]LogStaticMesh: Display: Building static mesh SM_Pot_C_Lid...
+[2022.12.07-04.13.06:411][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Pot_C_Lid) ...
+[2022.12.07-04.13.06:429][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Pot_C_Lid.SM_Pot_C_Lid
+[2022.12.07-04.13.06:448][902]LogMaterial: Display: Missing cached shadermap for M_Statue in PCD3D_SM5, Default, SM5 (DDC key hash: 8D495703C61A04B32B815499E9959BF6C64E6FEE), compiling. 
+[2022.12.07-04.13.06:449][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\MedievalDungeon\Materials\M_Statue.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.07-04.13.06:512][902]LogStaticMesh: Display: Building static mesh SM_Statue_Hooded...
+[2022.12.07-04.13.06:512][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Statue_Hooded) ...
+[2022.12.07-04.13.06:879][902]LogStaticMesh: Built static mesh [0.36s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Statue_Hooded.SM_Statue_Hooded
+[2022.12.07-04.13.06:898][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Statue_Hooded) ...
+[2022.12.07-04.13.06:924][902]LogMaterial: Display: Missing cached shadermap for M_Statue_Stand_Inst in PCD3D_SM5, Default, SM5 (DDC key hash: 58FDB4C23B8124AA33E242E31ABC5C0C328E4AA3), compiling. 
+[2022.12.07-04.13.06:924][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\MedievalDungeon\Materials\M_Statue_Stand_Inst.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2022.12.07-04.13.06:948][902]LogStaticMesh: Display: Building static mesh SM_Statue_Stand...
+[2022.12.07-04.13.06:948][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Statue_Stand) ...
+[2022.12.07-04.13.06:955][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Statue_Stand.SM_Statue_Stand
+[2022.12.07-04.13.06:988][902]LogStaticMesh: Display: Building static mesh SM_Stocks_Game_Ready...
+[2022.12.07-04.13.06:988][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Stocks_Game_Ready) ...
+[2022.12.07-04.13.07:013][902]LogStaticMesh: Built static mesh [0.04s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Stocks_Game_Ready.SM_Stocks_Game_Ready
+[2022.12.07-04.13.07:013][902]LogStaticMesh: Warning: SM_Stocks_Game_Ready has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.12.07-04.13.07:013][902]LogStaticMesh: Warning: SM_Stocks_Game_Ready has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.12.07-04.13.07:013][902]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=1.342 Y=0.000 Z=70.078, BoxExtent=(X=75.842 Y=60.845 Z=71.329), SphereRadius=(119.951668)) and MeshDescription Bounds (Origin=X=1.491 Y=0.000 Z=77.864, BoxExtent=(X=84.269 Y=67.606 Z=79.254), SphereRadius=(133.279636)) is significative for StaticMesh /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Stocks_Game_Ready.SM_Stocks_Game_Ready
+[2022.12.07-04.13.07:043][902]LogStaticMesh: Display: Building static mesh SM_Stone_Coffin...
+[2022.12.07-04.13.07:043][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Stone_Coffin.SM_Stone_Coffin
+[2022.12.07-04.13.07:053][902]LogStaticMesh: Display: Building static mesh SM_Stone_Coffin_Body...
+[2022.12.07-04.13.07:053][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Stone_Coffin_Body.SM_Stone_Coffin_Body
+[2022.12.07-04.13.07:073][902]LogStaticMesh: Display: Building static mesh SM_Stone_Coffin_Lid...
+[2022.12.07-04.13.07:073][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Stone_Coffin_Lid.SM_Stone_Coffin_Lid
+[2022.12.07-04.13.07:116][902]LogStaticMesh: Display: Building static mesh SM_Table...
+[2022.12.07-04.13.07:116][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Table) ...
+[2022.12.07-04.13.07:252][902]LogStaticMesh: Built static mesh [0.13s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Table.SM_Table
+[2022.12.07-04.13.07:270][902]LogStaticMesh: Display: Building static mesh SM_Torture_Chair...
+[2022.12.07-04.13.07:270][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Torture_Chair) ...
+[2022.12.07-04.13.07:298][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Torture_Chair.SM_Torture_Chair
+[2022.12.07-04.13.07:336][902]LogStaticMesh: Display: Building static mesh SM_Wood_G...
+[2022.12.07-04.13.07:336][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Wood_G.SM_Wood_G
+[2022.12.07-04.13.07:350][902]LogMaterial: Display: Missing cached shadermap for M_Skeleton_Dirty in PCD3D_SM5, Default, SM5 (DDC key hash: 32270100B25FCB73ACB70EBE400A56AD83EB33CB), compiling. 
+[2022.12.07-04.13.07:351][902]LogMaterial: Warning: [AssetLog] C:\Users\1022076\Documents\Unreal Projects\DungeonScene\Content\ASSETPACKS\MedievalDungeon\Materials\M_Skeleton_Dirty.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node MakeMaterialAttributes) Error on property Normal
+	(Node MakeMaterialAttributes) Error on property BaseColor
+	(Node MakeMaterialAttributes) Error on property Metallic
+	(Node MakeMaterialAttributes) Error on property Roughness
+	(Node MakeMaterialAttributes) Error on property AmbientOcclusion
+
+[2022.12.07-04.13.07:375][902]LogStaticMesh: Display: Building static mesh SM_Bones_Arm...
+[2022.12.07-04.13.07:375][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_Arm) ...
+[2022.12.07-04.13.07:387][902]LogStaticMesh: Built static mesh [0.03s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_Arm.SM_Bones_Arm
+[2022.12.07-04.13.07:401][902]LogStaticMesh: Display: Building static mesh SM_Bones_ClavicalLeft...
+[2022.12.07-04.13.07:401][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_ClavicalLeft.SM_Bones_ClavicalLeft
+[2022.12.07-04.13.07:412][902]LogStaticMesh: Display: Building static mesh SM_Bones_ClavicalRight...
+[2022.12.07-04.13.07:412][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_ClavicalRight.SM_Bones_ClavicalRight
+[2022.12.07-04.13.07:443][902]LogStaticMesh: Display: Building static mesh SM_Bones_FemurLeft...
+[2022.12.07-04.13.07:443][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_FemurLeft.SM_Bones_FemurLeft
+[2022.12.07-04.13.07:469][902]LogStaticMesh: Display: Building static mesh SM_Bones_FemurRight...
+[2022.12.07-04.13.07:469][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_FemurRight.SM_Bones_FemurRight
+[2022.12.07-04.13.07:469][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_FemurRight) ...
+[2022.12.07-04.13.07:487][902]LogStaticMesh: Display: Building static mesh SM_Bones_FibulaLeft...
+[2022.12.07-04.13.07:487][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_FibulaLeft.SM_Bones_FibulaLeft
+[2022.12.07-04.13.07:500][902]LogStaticMesh: Display: Building static mesh SM_Bones_FibulaRight...
+[2022.12.07-04.13.07:500][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_FibulaRight.SM_Bones_FibulaRight
+[2022.12.07-04.13.07:525][902]LogStaticMesh: Display: Building static mesh SM_Bones_FootLeft...
+[2022.12.07-04.13.07:525][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_FootLeft.SM_Bones_FootLeft
+[2022.12.07-04.13.07:525][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_FootLeft) ...
+[2022.12.07-04.13.07:550][902]LogStaticMesh: Display: Building static mesh SM_Bones_HandLeft...
+[2022.12.07-04.13.07:550][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_HandLeft.SM_Bones_HandLeft
+[2022.12.07-04.13.07:571][902]LogStaticMesh: Display: Building static mesh SM_Bones_HandRight...
+[2022.12.07-04.13.07:571][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_HandRight.SM_Bones_HandRight
+[2022.12.07-04.13.07:599][902]LogStaticMesh: Display: Building static mesh SM_Bones_Hips...
+[2022.12.07-04.13.07:599][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_Hips) ...
+[2022.12.07-04.13.07:611][902]LogStaticMesh: Built static mesh [0.03s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_Hips.SM_Bones_Hips
+[2022.12.07-04.13.07:629][902]LogStaticMesh: Display: Building static mesh SM_Bones_Jaw...
+[2022.12.07-04.13.07:629][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_Jaw.SM_Bones_Jaw
+[2022.12.07-04.13.07:657][902]LogStaticMesh: Display: Building static mesh SM_Bones_Leg...
+[2022.12.07-04.13.07:657][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_Leg) ...
+[2022.12.07-04.13.07:694][902]LogStaticMesh: Built static mesh [0.05s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_Leg.SM_Bones_Leg
+[2022.12.07-04.13.07:718][902]LogStaticMesh: Display: Building static mesh SM_Bones_Neck...
+[2022.12.07-04.13.07:718][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_Neck.SM_Bones_Neck
+[2022.12.07-04.13.07:732][902]LogStaticMesh: Display: Building static mesh SM_Bones_RadiusLeft...
+[2022.12.07-04.13.07:732][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_RadiusLeft.SM_Bones_RadiusLeft
+[2022.12.07-04.13.07:747][902]LogStaticMesh: Display: Building static mesh SM_Bones_RadiusRight...
+[2022.12.07-04.13.07:747][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_RadiusRight.SM_Bones_RadiusRight
+[2022.12.07-04.13.07:784][902]LogStaticMesh: Display: Building static mesh SM_Bones_RibCage...
+[2022.12.07-04.13.07:784][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_RibCage) ...
+[2022.12.07-04.13.07:929][902]LogStaticMesh: Built static mesh [0.14s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_RibCage.SM_Bones_RibCage
+[2022.12.07-04.13.07:962][902]LogStaticMesh: Display: Building static mesh SM_Bones_ScapulaLeft...
+[2022.12.07-04.13.07:962][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_ScapulaLeft.SM_Bones_ScapulaLeft
+[2022.12.07-04.13.07:989][902]LogStaticMesh: Display: Building static mesh SM_Bones_Skull...
+[2022.12.07-04.13.07:989][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_Skull) ...
+[2022.12.07-04.13.07:996][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_Skull.SM_Bones_Skull
+[2022.12.07-04.13.08:019][902]LogStaticMesh: Display: Building static mesh SM_Bones_TibiaLeft...
+[2022.12.07-04.13.08:019][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_TibiaLeft.SM_Bones_TibiaLeft
+[2022.12.07-04.13.08:037][902]LogStaticMesh: Display: Building static mesh SM_Bones_TibiaRight...
+[2022.12.07-04.13.08:037][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_TibiaRight.SM_Bones_TibiaRight
+[2022.12.07-04.13.08:051][902]LogStaticMesh: Display: Building static mesh SM_Bones_UlnaLeft...
+[2022.12.07-04.13.08:051][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_UlnaLeft.SM_Bones_UlnaLeft
+[2022.12.07-04.13.08:063][902]LogStaticMesh: Display: Building static mesh SM_Bones_UlnaRight...
+[2022.12.07-04.13.08:063][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_UlnaRight.SM_Bones_UlnaRight
+[2022.12.07-04.13.08:125][902]LogStaticMesh: Display: Building static mesh SM_Skeleton_01...
+[2022.12.07-04.13.08:125][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_01) ...
+[2022.12.07-04.13.08:538][902]LogStaticMesh: Built static mesh [0.38s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_01.SM_Skeleton_01
+[2022.12.07-04.13.08:539][902]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.645 Y=30.313 Z=7.568, BoxExtent=(X=28.906 Y=87.423 Z=10.328), SphereRadius=(87.633797)) and MeshDescription Bounds (Origin=X=0.860 Y=40.417 Z=10.091, BoxExtent=(X=38.542 Y=116.563 Z=13.771), SphereRadius=(116.845064)) is significative for StaticMesh /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_01.SM_Skeleton_01
+[2022.12.07-04.13.08:558][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_01) ...
+[2022.12.07-04.13.08:596][902]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.645 Y=30.313 Z=7.568, BoxExtent=(X=28.906 Y=87.423 Z=10.328), SphereRadius=(87.633797)) and MeshDescription Bounds (Origin=X=0.860 Y=40.417 Z=10.091, BoxExtent=(X=38.542 Y=116.563 Z=13.771), SphereRadius=(116.845064)) is significative for StaticMesh /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_01.SM_Skeleton_01
+[2022.12.07-04.13.08:660][902]LogStaticMesh: Display: Building static mesh SM_Skeleton_02...
+[2022.12.07-04.13.08:660][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_02) ...
+[2022.12.07-04.13.08:965][902]LogMeshUtilities: Finished distance field build in 2.2s - 126x112x91 sparse distance field, 1.4Mb total, 0.0Mb always loaded, 59% occupied, 1313 triangles, SM_Mausoleum
+[2022.12.07-04.13.09:070][902]LogStaticMesh: Built static mesh [0.38s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_02.SM_Skeleton_02
+[2022.12.07-04.13.09:070][902]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=11.434 Y=-7.849 Z=8.096, BoxExtent=(X=31.595 Y=99.948 Z=9.161), SphereRadius=(102.465752)) and MeshDescription Bounds (Origin=X=15.245 Y=-10.466 Z=10.795, BoxExtent=(X=42.127 Y=133.264 Z=12.215), SphereRadius=(136.621000)) is significative for StaticMesh /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_02.SM_Skeleton_02
+[2022.12.07-04.13.09:090][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_02) ...
+[2022.12.07-04.13.10:468][902]LogMeshUtilities: Finished distance field build in 1.6s - 126x112x91 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 45% occupied, 594 triangles, SM_Mausoleum_Ceiling
+[2022.12.07-04.13.10:508][902]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=11.434 Y=-7.849 Z=8.096, BoxExtent=(X=31.595 Y=99.948 Z=9.161), SphereRadius=(102.465752)) and MeshDescription Bounds (Origin=X=15.245 Y=-10.466 Z=10.795, BoxExtent=(X=42.127 Y=133.264 Z=12.215), SphereRadius=(136.621000)) is significative for StaticMesh /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_02.SM_Skeleton_02
+[2022.12.07-04.13.10:567][902]LogStaticMesh: Display: Building static mesh SM_Skeleton_03...
+[2022.12.07-04.13.10:567][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_03) ...
+[2022.12.07-04.13.10:953][902]LogStaticMesh: Built static mesh [0.36s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_03.SM_Skeleton_03
+[2022.12.07-04.13.10:953][902]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=16.925 Y=12.452 Z=12.318, BoxExtent=(X=71.797 Y=45.476 Z=14.401), SphereRadius=(75.345428)) and MeshDescription Bounds (Origin=X=22.566 Y=16.602 Z=16.424, BoxExtent=(X=95.730 Y=60.634 Z=19.202), SphereRadius=(100.460567)) is significative for StaticMesh /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_03.SM_Skeleton_03
+[2022.12.07-04.13.10:973][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_03) ...
+[2022.12.07-04.13.11:083][902]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=16.925 Y=12.452 Z=12.318, BoxExtent=(X=71.797 Y=45.476 Z=14.401), SphereRadius=(75.345428)) and MeshDescription Bounds (Origin=X=22.566 Y=16.602 Z=16.424, BoxExtent=(X=95.730 Y=60.634 Z=19.202), SphereRadius=(100.460567)) is significative for StaticMesh /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_03.SM_Skeleton_03
+[2022.12.07-04.13.11:145][902]LogStaticMesh: Display: Building static mesh SM_Skeleton_05...
+[2022.12.07-04.13.11:145][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_05) ...
+[2022.12.07-04.13.16:372][902]LogStaticMesh: Built static mesh [5.22s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_05.SM_Skeleton_05
+[2022.12.07-04.13.16:372][902]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-8.043 Y=15.967 Z=13.617, BoxExtent=(X=46.044 Y=34.913 Z=15.213), SphereRadius=(56.822464)) and MeshDescription Bounds (Origin=X=-10.750 Y=21.366 Z=18.109, BoxExtent=(X=61.418 Y=46.560 Z=20.307), SphereRadius=(75.704005)) is significative for StaticMesh /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_05.SM_Skeleton_05
+[2022.12.07-04.13.16:392][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_05) ...
+[2022.12.07-04.13.16:397][902]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-8.043 Y=15.967 Z=13.617, BoxExtent=(X=46.044 Y=34.913 Z=15.213), SphereRadius=(56.822464)) and MeshDescription Bounds (Origin=X=-10.750 Y=21.366 Z=18.109, BoxExtent=(X=61.418 Y=46.560 Z=20.307), SphereRadius=(75.704005)) is significative for StaticMesh /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_05.SM_Skeleton_05
+[2022.12.07-04.13.17:612][902]LogStaticMesh: Display: Building static mesh SM_Crypt_Wall_Half...
+[2022.12.07-04.13.17:612][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Half.SM_Crypt_Wall_Half
+[2022.12.07-04.13.17:623][902]LogStaticMesh: Display: Building static mesh SM_Crypt_Ceiling_Half_B...
+[2022.12.07-04.13.17:623][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half_B.SM_Crypt_Ceiling_Half_B
+[2022.12.07-04.13.17:635][902]LogStaticMesh: Display: Building static mesh SM_Crypt_Ceiling_Half...
+[2022.12.07-04.13.17:635][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Half.SM_Crypt_Ceiling_Half
+[2022.12.07-04.13.17:645][902]LogStaticMesh: Display: Building static mesh SM_Crypt_Ceiling_Flat...
+[2022.12.07-04.13.17:645][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Flat.SM_Crypt_Ceiling_Flat
+[2022.12.07-04.13.17:655][902]LogStaticMesh: Display: Building static mesh SM_Dungeon_Wall_Half...
+[2022.12.07-04.13.17:655][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Dungeon_Wall_Half.SM_Dungeon_Wall_Half
+[2022.12.07-04.13.17:666][902]LogStaticMesh: Display: Building static mesh SM_Ceiling_Third_Reverse...
+[2022.12.07-04.13.17:666][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Third_Reverse.SM_Ceiling_Third_Reverse
+[2022.12.07-04.13.17:676][902]LogStaticMesh: Display: Building static mesh SM_Ceiling_Flat_Half...
+[2022.12.07-04.13.17:676][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat_Half.SM_Ceiling_Flat_Half
+[2022.12.07-04.13.17:695][902]LogStaticMesh: Display: Building static mesh SM_Ceiling_Arch_B...
+[2022.12.07-04.13.17:695][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Arch_B.SM_Ceiling_Arch_B
+[2022.12.07-04.13.17:712][902]LogStaticMesh: Display: Building static mesh SM_Wood_F...
+[2022.12.07-04.13.17:712][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Wood_F.SM_Wood_F
+[2022.12.07-04.13.17:728][902]LogStaticMesh: Display: Building static mesh SM_Wood_E...
+[2022.12.07-04.13.17:728][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Wood_E.SM_Wood_E
+[2022.12.07-04.13.17:746][902]LogStaticMesh: Display: Building static mesh SM_Wood_D...
+[2022.12.07-04.13.17:746][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Wood_D.SM_Wood_D
+[2022.12.07-04.13.17:762][902]LogStaticMesh: Display: Building static mesh SM_Wood_C...
+[2022.12.07-04.13.17:762][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Wood_C.SM_Wood_C
+[2022.12.07-04.13.17:780][902]LogStaticMesh: Display: Building static mesh SM_Wood_B...
+[2022.12.07-04.13.17:780][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Wood_B.SM_Wood_B
+[2022.12.07-04.13.17:815][902]LogStaticMesh: Display: Building static mesh SM_Wood_A...
+[2022.12.07-04.13.17:815][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Wood_A.SM_Wood_A
+[2022.12.07-04.13.17:834][902]LogStaticMesh: Display: Building static mesh SM_Statue_Hooded_Metal...
+[2022.12.07-04.13.17:834][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Statue_Hooded_Metal) ...
+[2022.12.07-04.13.18:040][902]LogStaticMesh: Built static mesh [0.20s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Statue_Hooded_Metal.SM_Statue_Hooded_Metal
+[2022.12.07-04.13.18:059][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Statue_Hooded_Metal) ...
+[2022.12.07-04.13.18:090][902]LogStaticMesh: Display: Building static mesh SM_SplitLog...
+[2022.12.07-04.13.18:090][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_SplitLog.SM_SplitLog
+[2022.12.07-04.13.18:090][902]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-0.000 Y=0.000 Z=0.000, BoxExtent=(X=30.440 Y=7.101 Z=10.175), SphereRadius=(32.298454)) and MeshDescription Bounds (Origin=X=-0.000 Y=0.000 Z=0.000, BoxExtent=(X=40.587 Y=9.469 Z=13.567), SphereRadius=(43.064603)) is significative for StaticMesh /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_SplitLog.SM_SplitLog
+[2022.12.07-04.13.18:118][902]LogStaticMesh: Display: Building static mesh SM_Gargoyle_Statue_Stand...
+[2022.12.07-04.13.18:118][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_Stand.SM_Gargoyle_Statue_Stand
+[2022.12.07-04.13.18:137][902]LogStaticMesh: Display: Building static mesh SM_Gargoyle_Statue...
+[2022.12.07-04.13.18:137][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue) ...
+[2022.12.07-04.13.18:259][902]LogStaticMesh: Built static mesh [0.12s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue.SM_Gargoyle_Statue
+[2022.12.07-04.13.18:273][902]LogStaticMesh: Display: Building static mesh SM_Coffin_No_Lid...
+[2022.12.07-04.13.18:273][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Coffin_No_Lid.SM_Coffin_No_Lid
+[2022.12.07-04.13.18:288][902]LogStaticMesh: Display: Building static mesh SM_Coffin_Lid...
+[2022.12.07-04.13.18:288][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Props/SM_Coffin_Lid.SM_Coffin_Lid
+[2022.12.07-04.13.18:339][902]LogStaticMesh: Display: Building static mesh SM_Skeleton_07...
+[2022.12.07-04.13.18:339][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_07) ...
+[2022.12.07-04.13.22:318][902]LogStaticMesh: Built static mesh [3.98s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_07.SM_Skeleton_07
+[2022.12.07-04.13.22:318][902]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-13.491 Y=31.541 Z=22.633, BoxExtent=(X=31.966 Y=33.814 Z=25.170), SphereRadius=(44.097057)) and MeshDescription Bounds (Origin=X=-17.957 Y=42.047 Z=30.190, BoxExtent=(X=42.540 Y=45.093 Z=33.547), SphereRadius=(58.666343)) is significative for StaticMesh /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_07.SM_Skeleton_07
+[2022.12.07-04.13.22:361][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_07) ...
+[2022.12.07-04.13.22:363][902]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-13.491 Y=31.541 Z=22.633, BoxExtent=(X=31.966 Y=33.814 Z=25.170), SphereRadius=(44.097057)) and MeshDescription Bounds (Origin=X=-17.957 Y=42.047 Z=30.190, BoxExtent=(X=42.540 Y=45.093 Z=33.547), SphereRadius=(58.666343)) is significative for StaticMesh /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_07.SM_Skeleton_07
+[2022.12.07-04.13.22:429][902]LogStaticMesh: Display: Building static mesh SM_Skeleton_06...
+[2022.12.07-04.13.22:429][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_06) ...
+[2022.12.07-04.13.27:754][902]LogStaticMesh: Built static mesh [5.32s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_06.SM_Skeleton_06
+[2022.12.07-04.13.27:754][902]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-6.282 Y=24.520 Z=26.427, BoxExtent=(X=29.203 Y=30.724 Z=28.639), SphereRadius=(49.131569)) and MeshDescription Bounds (Origin=X=-8.427 Y=32.763 Z=35.209, BoxExtent=(X=38.886 Y=41.032 Z=38.158), SphereRadius=(65.370812)) is significative for StaticMesh /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_06.SM_Skeleton_06
+[2022.12.07-04.13.27:808][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_06) ...
+[2022.12.07-04.13.27:813][902]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-6.282 Y=24.520 Z=26.427, BoxExtent=(X=29.203 Y=30.724 Z=28.639), SphereRadius=(49.131569)) and MeshDescription Bounds (Origin=X=-8.427 Y=32.763 Z=35.209, BoxExtent=(X=38.886 Y=41.032 Z=38.158), SphereRadius=(65.370812)) is significative for StaticMesh /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_06.SM_Skeleton_06
+[2022.12.07-04.13.27:871][902]LogStaticMesh: Display: Building static mesh SM_Skeleton_04...
+[2022.12.07-04.13.27:871][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04) ...
+[2022.12.07-04.13.32:879][902]LogStaticMesh: Built static mesh [5.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04
+[2022.12.07-04.13.32:879][902]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=4.134 Y=1.948 Z=10.611, BoxExtent=(X=34.497 Y=39.379 Z=14.508), SphereRadius=(52.421509)) and MeshDescription Bounds (Origin=X=5.512 Y=2.577 Z=14.137, BoxExtent=(X=45.996 Y=52.515 Z=19.333), SphereRadius=(69.851219)) is significative for StaticMesh /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04
+[2022.12.07-04.13.32:924][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04) ...
+[2022.12.07-04.13.32:930][902]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=4.134 Y=1.948 Z=10.611, BoxExtent=(X=34.497 Y=39.379 Z=14.508), SphereRadius=(52.421509)) and MeshDescription Bounds (Origin=X=5.512 Y=2.577 Z=14.137, BoxExtent=(X=45.996 Y=52.515 Z=19.333), SphereRadius=(69.851219)) is significative for StaticMesh /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_04.SM_Skeleton_04
+[2022.12.07-04.13.32:954][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_ScapulaRight) ...
+[2022.12.07-04.13.32:977][902]LogStaticMesh: Display: Building static mesh SM_Bones_ScapulaRight...
+[2022.12.07-04.13.32:977][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_ScapulaRight.SM_Bones_ScapulaRight
+[2022.12.07-04.13.33:009][902]LogStaticMesh: Display: Building static mesh SM_Bones_PatellaRight...
+[2022.12.07-04.13.33:009][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_PatellaRight.SM_Bones_PatellaRight
+[2022.12.07-04.13.33:038][902]LogStaticMesh: Display: Building static mesh SM_Bones_PatellaLeft...
+[2022.12.07-04.13.33:038][902]LogStaticMesh: Built static mesh [0.00s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_PatellaLeft.SM_Bones_PatellaLeft
+[2022.12.07-04.13.33:063][902]LogStaticMesh: Display: Building static mesh SM_Bones_HumerusRight...
+[2022.12.07-04.13.33:063][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_HumerusRight) ...
+[2022.12.07-04.13.33:076][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_HumerusRight.SM_Bones_HumerusRight
+[2022.12.07-04.13.33:103][902]LogStaticMesh: Display: Building static mesh SM_Bones_HumerusLeft...
+[2022.12.07-04.13.33:103][902]LogStaticMesh: Built static mesh [0.01s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_HumerusLeft.SM_Bones_HumerusLeft
+[2022.12.07-04.13.33:103][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_HumerusLeft) ...
+[2022.12.07-04.13.33:141][902]LogStaticMesh: Display: Building static mesh SM_Bones_FootRight...
+[2022.12.07-04.13.33:141][902]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_FootRight) ...
+[2022.12.07-04.13.33:161][902]LogStaticMesh: Built static mesh [0.02s] /Game/ASSETPACKS/MedievalDungeon/Meshes/Skeletons/SM_Bones_FootRight.SM_Bones_FootRight
+[2022.12.07-04.13.33:182][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.12.07-04.13.33:196][902]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-04.13.33:197][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-04.13.33:201][902]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-04.13.33:202][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-04.13.33:304][902]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2022.12.07-04.13.47:066][902]LogDerivedDataCache: C:/Users/1022076/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.050 and deleted 1761 file(s) with total size 31 MiB.
+[2022.12.07-04.13.49:133][902]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-04.13.49:134][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-04.14.28:049][902]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.12.07-04.14.28:049][902]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-04.14.28:049][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-04.14.28:050][902]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.12.07-04.14.28:050][902]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-04.14.28:050][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-04.14.28:095][902]LogDerivedDataCache: C:/Users/1022076/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/1022076/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/2a/0d/da67455cca0f515be25321ac2a820f64600d.udd from '/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chalice_02a.SM_Chalice_02a'.
+[2022.12.07-04.14.28:097][902]LogDerivedDataCache: C:/Users/1022076/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/1022076/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyDIST/6e/e5/bb99663a0e57aa3ef501f99be40b9c1b1286.udd from '/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chest_01f.SM_Chest_01f'.
+[2022.12.07-04.14.28:213][902]LogDerivedDataCache: C:/Users/1022076/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/1022076/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/28/de/295505eb375a5e160226fcf738c5e1ef684c.udd from '/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Bangle_02j.SM_Bangle_02j'.
+[2022.12.07-04.14.28:213][902]LogDerivedDataCache: C:/Users/1022076/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/1022076/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/e1/74/404ac9d5e01d9021b773957c2e1c46fee472.udd from '/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chalice_02b.SM_Chalice_02b'.
+[2022.12.07-04.14.28:213][902]LogDerivedDataCache: C:/Users/1022076/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/1022076/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/f8/5b/78df58fdb85d3bbf3f17329ad8f77b2fa81b.udd from '/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chest_01f.SM_Chest_01f'.
+[2022.12.07-04.14.28:213][902]LogDerivedDataCache: C:/Users/1022076/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/1022076/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/e7/18/d1e6825546cf334586723e4105ed325f7f3c.udd from '/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Chest_01h.SM_Chest_01h'.
+[2022.12.07-04.14.28:226][902]LogDerivedDataCache: C:/Users/1022076/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/1022076/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/bc/da/6dfed650c32dca72978ee4a14ac3a5df588e.udd from '/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Coin_Pile_01e.SM_Coin_Pile_01e'.
+[2022.12.07-04.14.28:226][902]LogDerivedDataCache: C:/Users/1022076/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/1022076/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/51/63/277f095fba3f75685e589fdf658cc8eb34ae.udd from '/Game/ASSETPACKS/AncientTreasures/Meshes/SM_Coin_Pile_01d.SM_Coin_Pile_01d'.
+[2022.12.07-04.14.28:254][902]LogDerivedDataCache: C:/Users/1022076/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/1022076/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyCARD/ec/2d/a570d2883dcb0b701ce8ac75880b108298cc.udd from '/Game/ASSETPACKS/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Plaster.SM_Crypt_Wall_Plaster'.
+[2022.12.07-04.14.29:859][902]LogWorld: Warning: UWorld::CleanupWorld called twice or called without InitWorld called first.
+[2022.12.07-04.14.29:859][902]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-04.14.29:859][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-04.14.35:175][902]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.12.07-04.14.35:197][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.12.07-04.14.35:206][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2022.12.07-04.14.43:729][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.12.07-04.14.44:011][412]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_44 in PCD3D_SM5, Default, SM5 (DDC key hash: F5DBEC072E30A8FB556EEEFA4A720290CF285FDA), compiling. 
+[2022.12.07-04.14.44:179][412]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_32 in PCD3D_SM5, Default, SM5 (DDC key hash: 37997D69EC97EB29750D72DB5231D6EDD6BD455C), compiling. 
+[2022.12.07-04.14.44:238][412]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_35 in PCD3D_SM5, Default, SM5 (DDC key hash: F9114EE6CC33B52BAA1882D66B0690268B2436F2), compiling. 
+[2022.12.07-04.14.44:326][412]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MainScene.MainScene
+[2022.12.07-04.14.44:327][412]Cmd: MAP LOAD FILE="../../../../../Users/1022076/Documents/Unreal Projects/DungeonScene/Content/MainScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.07-04.14.44:327][412]LightingResults: New page: Lighting Build
+[2022.12.07-04.14.44:327][412]LoadErrors: New page: Loading map: MainScene.umap
+[2022.12.07-04.14.44:333][412]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.12.07-04.14.44:335][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.07-04.14.44:335][412]MapCheck: New page: Map Check
+[2022.12.07-04.14.44:335][412]LightingResults: New page: Lighting Build
+[2022.12.07-04.14.44:342][412]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.07-04.14.44:349][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
